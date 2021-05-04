@@ -7,7 +7,7 @@ const polyline = require( 'google-polyline' )
 
 
 const googleMapsClient = require('@google/maps').createClient({
-  key: 'AIzaSyDdnHBIWJEdwobMHH4p0wGV45EYEC5lz9g',
+  key: 'YOUR KEY HERE',
   Promise: Promise
 });
 
