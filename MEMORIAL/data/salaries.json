@@ -1,0 +1,2026 @@
+[
+  {
+    "job": "sales manager",
+    "salary": "75,885"
+  },
+  {
+    "job": "analyst",
+    "salary": "74,958"
+  },
+  {
+    "job": "strategic development and software engineer",
+    "salary": "133,213"
+  },
+  {
+    "job": "illustrator",
+    "salary": "50,841"
+  },
+  {
+    "job": "retired",
+    "salary": "unknown"
+  },
+  {
+    "job": "physician",
+    "salary": "207,606"
+  },
+  {
+    "job": "naval officer",
+    "salary": "51,861"
+  },
+  {
+    "job": "pilot",
+    "salary": "90,649"
+  },
+  {
+    "job": "army sargeant",
+    "salary": "33,652"
+  },
+  {
+    "job": "army lieutenant colonel",
+    "salary": "59,744"
+  },
+  {
+    "job": "founding partner",
+    "salary": "128,351"
+  },
+  {
+    "job": "naval captain",
+    "salary": "84,000"
+  },
+  {
+    "job": "author",
+    "salary": "49,521"
+  },
+  {
+    "job": "sergeant major",
+    "salary": "72,768"
+  },
+  {
+    "job": "army major",
+    "salary": "72,768"
+  },
+  {
+    "job": "naval commander",
+    "salary": "84,000"
+  },
+  {
+    "job": "gymnastics coach",
+    "salary": "50,043"
+  },
+  {
+    "job": "psychologist",
+    "salary": "82,277"
+  },
+  {
+    "job": "senior advisor",
+    "salary": "101,267"
+  },
+  {
+    "job": "chief petty officer",
+    "salary": "48,000"
+  },
+  {
+    "job": "naval operations specialist",
+    "salary": "62,962"
+  },
+  {
+    "job": "yeoman second class",
+    "salary": "unknown"
+  },
+  {
+    "job": "lieutenant colonel",
+    "salary": "59,744"
+  },
+  {
+    "job": "flight attendant",
+    "salary": "36,262"
+  },
+  {
+    "job": "physical therapist",
+    "salary": "108,265"
+  },
+  {
+    "job": "professor",
+    "salary": "49,052"
+  },
+  {
+    "job": "intelligence officer",
+    "salary": "155,357"
+  },
+   {
+    "job": "assistant treasurer",
+    "salary": "69,946"
+  },
+  {
+    "job": "support technician",
+    "salary": "56,840"
+  },
+   {
+    "job": "assistant vice president",
+    "salary": "112,038"
+  },
+  {
+    "job": "controller",
+    "salary": "107,468"
+  },
+  {
+    "job": "senior managing director",
+    "salary": "169,362"
+  },
+  {
+    "job": "quality assurance specialist",
+    "salary": "79,719"
+  },
+  {
+    "job": "senior vice president",
+    "salary": "188,080"
+  },
+  {
+    "job": "executive vice president",
+    "salary": "171,985"
+  },
+  {
+    "job": "driver",
+    "salary": "38,491"
+  },
+  {
+    "job": "investor liason",
+    "salary": "47,804"
+  },
+  {
+    "job": "assistant supervisor",
+    "salary": "45,562"
+  },
+  {
+    "job": "founding partner",
+    "salary": "128,351"
+  },
+  {
+    "job": "software engineer",
+    "salary": "136,380"
+  },
+  {
+    "job": "database administrator",
+    "salary": "119,553"
+  },
+  {
+    "job": "product development",
+    "salary": "96,616"
+  },
+  {
+    "job": "publisher",
+    "salary": "61,408"
+  },
+  {
+    "job": "elevator operator",
+    "salary": "29,090"
+  },
+  {
+    "job": "window washer",
+    "salary": "40,500"
+  },
+  {
+    "job": "filmmaker",
+    "salary": "98,158"
+  },
+  {
+    "job": "project development",
+    "salary": "46,508"
+  },
+  {
+    "job": "account manager",
+    "salary": "71,733"
+  },
+  {
+    "job": "environmental lawyer",
+    "salary": "100,859"
+  },
+  {
+    "job": "null",
+    "salary": "33,782"
+  },
+  {
+    "job": "owner",
+    "salary": "60,197"
+  },
+  {
+    "job": "information systems technician",
+    "salary": "84,560"
+  },
+  {
+    "job": "university student",
+    "salary": "39,218"
+  },
+  {
+    "job": "U.S. Army",
+    "salary": "32,752"
+  },
+  {
+    "job": "secretary",
+    "salary": "56,335"
+  },
+  {
+    "job": "Pentagon communications representative",
+    "salary": "37,098"
+  },
+  {
+    "job": "defense department contractor",
+    "salary": "73,645"
+  },
+  {
+    "job": "assistant director",
+    "salary": "68,137"
+  },
+  {
+    "job": "student",
+    "salary": "33,977"
+  },
+  {
+    "job": " Jr.",
+    "salary": "38,475"
+  },
+  {
+    "job": "electronics technician",
+    "salary": "54,869"
+  },
+  {
+    "job": "accountant",
+    "salary": "67,081"
+  },
+  {
+    "job": "civilian employee",
+    "salary": "34,294"
+  },
+  {
+    "job": "construction worker",
+    "salary": "93,216"
+  },
+  {
+    "job": "physicist",
+    "salary": "39,361"
+  },
+  {
+    "job": "first officer",
+    "salary": "79,601"
+  },
+  {
+    "job": "teacher",
+    "salary": "56,152"
+  },
+  {
+    "job": "Navy contractor",
+    "salary": "73,645"
+  },
+  {
+    "job": "antiques and collectibles dealer",
+    "salary": "130,066"
+  },
+  {
+    "job": "U.S. Navy",
+    "salary": "40,004"
+  },
+  {
+    "job": "retiree",
+    "salary": "35,985"
+  },
+  {
+    "job": "captain",
+    "salary": "67,885"
+  },
+  {
+    "job": "director",
+    "salary": "129,669"
+  },
+  {
+    "job": "systems business consultant",
+    "salary": "155,437"
+  },
+  {
+    "job": "AA Flight 77",
+    "salary": "unknown"
+  },
+  {
+    "job": "Marsh & McLennan Cos. Inc.",
+    "salary": "36,028"
+  },
+  {
+    "job": "research director",
+    "salary": "161,904"
+  },
+  {
+    "job": "vice president",
+    "salary": "177,350"
+  },
+  {
+    "job": "surface warfare officer",
+    "salary": "unknown"
+  },
+  {
+    "job": "Aerographer's mate",
+    "salary": "unknown"
+  },
+  {
+    "job": "storekeeper third class",
+    "salary": "unknown"
+  },
+  {
+    "job": "technology director",
+    "salary": "164,842"
+  },
+  {
+    "job": "educational outreach director",
+    "salary": "47,324"
+  },
+  {
+    "job": "consultant",
+    "salary": "88,508"
+  },
+  {
+    "job": "housewife",
+    "salary": "unknown"
+  },
+  {
+    "job": "retired Navy Admiral and pilot",
+    "salary": "unknown"
+  },
+  {
+    "job": "chairwoman",
+    "salary": "unknown"
+  },
+  {
+    "job": "insurance broker",
+    "salary": "85,479"
+  },
+  {
+    "job": "salesman",
+    "salary": "74,550"
+  },
+  {
+    "job": "UA Flight 93",
+    "salary": "unknown"
+  },
+  {
+    "job": "president",
+    "salary": "110,383"
+  },
+  {
+    "job": "environmental compliance",
+    "salary": "80,845"
+  },
+  {
+    "job": "manager",
+    "salary": "80,429"
+  },
+  {
+    "job": "budget and management specialist",
+    "salary": "74,150"
+  },
+  {
+    "job": "chief operating officer",
+    "salary": "152,011"
+  },
+  {
+    "job": "travel officer manager",
+    "salary": "66,939"
+  },
+  {
+    "job": "lawyer",
+    "salary": "100,859"
+  },
+  {
+    "job": "Aon Corp.",
+    "salary": "unknown"
+  },
+  {
+    "job": "engineer",
+    "salary": "105,205"
+  },
+  {
+    "job": "retired teacher's aide",
+    "salary": "unknown"
+  },
+  {
+    "job": "automation specialist",
+    "salary": "69,966"
+  },
+  {
+    "job": "deputy chief of staff for personnel",
+    "salary": "110,229"
+  },
+  {
+    "job": "financial manager",
+    "salary": "112,622"
+  },
+  {
+    "job": "executive assistant",
+    "salary": "71,902"
+  },
+  {
+    "job": "distribution center director",
+    "salary": "91,680"
+  },
+  {
+    "job": "executive",
+    "salary": "95,723"
+  },
+  {
+    "job": "illustrator/draftsman second class",
+    "salary": "unknown"
+  },
+  {
+    "job": "TV commentator",
+    "salary": "unknown"
+  },
+  {
+    "job": "firefighter",
+    "salary": "70,439"
+  },
+  {
+    "job": "electrical engineer",
+    "salary": "85,884"
+  },
+  {
+    "job": "retired president",
+    "salary": "110,383"
+  },
+  {
+    "job": "retired nurse",
+    "salary": "73,211"
+  },
+  {
+    "job": "software architect",
+    "salary": "164,456"
+  },
+  {
+    "job": "Wife of Robert Ploger Legacy.com tribute",
+    "salary": "unknown"
+  },
+  {
+    "job": "World Trade Center",
+    "salary": "34,305"
+  },
+  {
+    "job": "trader",
+    "salary": "141,084"
+  },
+  {
+    "job": " Sr.",
+    "salary": "37,065"
+  },
+  {
+    "job": "New York State Department of Taxation and Finance",
+    "salary": "33,964"
+  },
+  {
+    "job": "Windows on the World",
+    "salary": "37,968"
+  },
+  {
+    "job": "beverage manager",
+    "salary": "64,033"
+  },
+  {
+    "job": "account associate",
+    "salary": "58,915"
+  },
+  {
+    "job": "janitorial",
+    "salary": "31,890"
+  },
+  {
+    "job": "structural carpenter",
+    "salary": "50,382"
+  },
+  {
+    "job": "Computer programmer",
+    "salary": "72,790"
+  },
+  {
+    "job": "technician",
+    "salary": "46,093"
+  },
+  {
+    "job": "corporate travel booker",
+    "salary": "33,852"
+  },
+  {
+    "job": "travel agent",
+    "salary": "49,747"
+  },
+  {
+    "job": "operations supervisor",
+    "salary": "72,368"
+  },
+  {
+    "job": "Empire Blue Cross Blue Shield",
+    "salary": "35,547"
+  },
+  {
+    "job": "managing director",
+    "salary": "173,026"
+  },
+  {
+    "job": "eSpeed vice president of corporate development",
+    "salary": "unknown"
+  },
+  {
+    "job": "Fixed income accountant",
+    "salary": "67,081"
+  },
+  {
+    "job": "Computer designer",
+    "salary": "67,317"
+  },
+  {
+    "job": "Cantor Fitzgerald",
+    "salary": "37,502"
+  },
+  {
+    "job": "convertible bonds broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "bond broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "purchase and sales clerk",
+    "salary": "40,393"
+  },
+  {
+    "job": "securities lending department",
+    "salary": "34,510"
+  },
+  {
+    "job": "broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "project manager",
+    "salary": "96,265"
+  },
+  {
+    "job": "head of global sales for eSpeed",
+    "salary": "136,533"
+  },
+  {
+    "job": "assistant trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "administrative assistant",
+    "salary": "43,528"
+  },
+  {
+    "job": "compliance officer for institutional equities",
+    "salary": "97,310"
+  },
+  {
+    "job": "senior trader",
+    "salary": "173,780"
+  },
+  {
+    "job": "swaps trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "Municipal Bond Trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "currency broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "partner",
+    "salary": "139,243"
+  },
+  {
+    "job": "computer technician",
+    "salary": "45,262"
+  },
+  {
+    "job": "eSpeed desktop support person",
+    "salary": "unknown"
+  },
+  {
+    "job": "operations manager",
+    "salary": "72,116"
+  },
+  {
+    "job": "customer service",
+    "salary": "31,432"
+  },
+  {
+    "job": "securities controller",
+    "salary": "108,268"
+  },
+  {
+    "job": "Human resources",
+    "salary": "60,155"
+  },
+  {
+    "job": "Broker assistant",
+    "salary": "95,640"
+  },
+  {
+    "job": "foreign exchange broker",
+    "salary": "108,883"
+  },
+  {
+    "job": "Institutional sales desk",
+    "salary": "75,143"
+  },
+  {
+    "job": "foreign exchange operations manager",
+    "salary": "108,883"
+  },
+  {
+    "job": "electricity options broker",
+    "salary": "unknown"
+  },
+  {
+    "job": "energy broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "electricity trader",
+    "salary": "unknown"
+  },
+  {
+    "job": "vice chairman of eSpeed",
+    "salary": "unknown"
+  },
+  {
+    "job": "worked on repo desk",
+    "salary": "unknown"
+  },
+  {
+    "job": "facilities manager",
+    "salary": "66,767"
+  },
+  {
+    "job": "head of telecommunications",
+    "salary": "84,136"
+  },
+  {
+    "job": "technical support",
+    "salary": "67,457"
+  },
+  {
+    "job": "computer analyst",
+    "salary": "94,583"
+  },
+  {
+    "job": "NASDAQ trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "battalion commander",
+    "salary": "42,479"
+  },
+  {
+    "job": "energy trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "industrial sales trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "financial analyst",
+    "salary": "86,293"
+  },
+  {
+    "job": "computer engineer",
+    "salary": "85,357"
+  },
+  {
+    "job": "trader for TradeSpark",
+    "salary": "unknown"
+  },
+  {
+    "job": "stock broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "volume control clerk",
+    "salary": "31,819"
+  },
+  {
+    "job": "eSpeed",
+    "salary": "33,104"
+  },
+  {
+    "job": "partner and corporate bond broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "operations",
+    "salary": "62,053"
+  },
+  {
+    "job": "bond trader and partner",
+    "salary": "141,084"
+  },
+  {
+    "job": "attorney",
+    "salary": "94,793"
+  },
+  {
+    "job": "software designer",
+    "salary": "93,645"
+  },
+  {
+    "job": "institutional stock trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "employee of eSpeed division",
+    "salary": "38,367"
+  },
+  {
+    "job": "securities broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "programmer",
+    "salary": "102,269"
+  },
+  {
+    "job": "contractor",
+    "salary": "73,645"
+  },
+  {
+    "job": "engineering",
+    "salary": "105,205"
+  },
+  {
+    "job": "fire safety director",
+    "salary": "40,974"
+  },
+  {
+    "job": "supply manager",
+    "salary": "71,829"
+  },
+  {
+    "job": "equities p&s clerk",
+    "salary": "40,116"
+  },
+  {
+    "job": "international trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "electronic bond trading coordinator",
+    "salary": "unknown"
+  },
+  {
+    "job": "Industrial Bank of Japan",
+    "salary": "34,708"
+  },
+  {
+    "job": "operations department",
+    "salary": "62,053"
+  },
+  {
+    "job": "benefits specialist",
+    "salary": "57,406"
+  },
+  {
+    "job": "auditor",
+    "salary": "83,903"
+  },
+  {
+    "job": "options broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "mortgage security broker",
+    "salary": "129,040"
+  },
+  {
+    "job": "foreign currency trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "computer systems manager",
+    "salary": "104,602"
+  },
+  {
+    "job": "data systems engineer",
+    "salary": "97,244"
+  },
+  {
+    "job": "institutional equities department",
+    "salary": "36,188"
+  },
+  {
+    "job": "Commodities broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "technical specialist",
+    "salary": "89,024"
+  },
+  {
+    "job": "ticket desk manager",
+    "salary": "65,463"
+  },
+  {
+    "job": "data entry clerk",
+    "salary": "35,125"
+  },
+  {
+    "job": "police officer",
+    "salary": "65,899"
+  },
+  {
+    "job": "AA Flight 11",
+    "salary": "unknown"
+  },
+  {
+    "job": "food service handler",
+    "salary": "25,380"
+  },
+  {
+    "job": "Thomson Financial Services",
+    "salary": "71,521"
+  },
+  {
+    "job": "eSpeed/banker",
+    "salary": "unknown"
+  },
+  {
+    "job": "Carr Futures",
+    "salary": "unknown"
+  },
+  {
+    "job": "supervisor",
+    "salary": "49,239"
+  },
+  {
+    "job": "clerk",
+    "salary": "45,301"
+  },
+  {
+    "job": "security officer",
+    "salary": "29,466"
+  },
+  {
+    "job": "futures trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "receptionist",
+    "salary": "34,661"
+  },
+  {
+    "job": "assistant on the foreign exchange trading desk",
+    "salary": "unknown"
+  },
+  {
+    "job": "executive assistant to the president of the New York office",
+    "salary": "83,755"
+  },
+  {
+    "job": "banker",
+    "salary": "47,964"
+  },
+  {
+    "job": "Assistant Deputy Chief",
+    "salary": "108,121"
+  },
+  {
+    "job": "nurse",
+    "salary": "73,211"
+  },
+  {
+    "job": "Corporate development director",
+    "salary": "120,144"
+  },
+  {
+    "job": "electrician",
+    "salary": "51,495"
+  },
+  {
+    "job": "global equities division",
+    "salary": "34,905"
+  },
+  {
+    "job": "courier",
+    "salary": "32,971"
+  },
+  {
+    "job": "broadcast engineer",
+    "salary": "113,822"
+  },
+  {
+    "job": "microfiche clerk",
+    "salary": "45,301"
+  },
+  {
+    "job": "Empire Blue Cross",
+    "salary": "36,767"
+  },
+  {
+    "job": "Encompys",
+    "salary": "unknown"
+  },
+  {
+    "job": "Euro Brokers Inc.",
+    "salary": "unknown"
+  },
+  {
+    "job": "wire person",
+    "salary": "40,093"
+  },
+  {
+    "job": "executive chef",
+    "salary": "90,932"
+  },
+  {
+    "job": "executive vice president and chief financial officer",
+    "salary": "163,673"
+  },
+  {
+    "job": "research associate",
+    "salary": "80,702"
+  },
+  {
+    "job": "Fred Alger Management",
+    "salary": "80,429"
+  },
+  {
+    "job": "global risk services",
+    "salary": "39,970"
+  },
+  {
+    "job": "stock analyst",
+    "salary": "32,939"
+  },
+  {
+    "job": "research analyst",
+    "salary": "70,533"
+  },
+  {
+    "job": "call records management assistant",
+    "salary": "54,227"
+  },
+  {
+    "job": "switch operations technician",
+    "salary": "54,933"
+  },
+  {
+    "job": "junior translation engineer",
+    "salary": "69,070"
+  },
+  {
+    "job": "systems administrator",
+    "salary": "82,792"
+  },
+  {
+    "job": "recruiter",
+    "salary": "62,839"
+  },
+  {
+    "job": "associate",
+    "salary": "72,940"
+  },
+  {
+    "job": "Associate Director",
+    "salary": "96,581"
+  },
+  {
+    "job": "legal administrative officer",
+    "salary": "56,898"
+  },
+  {
+    "job": "software analyst",
+    "salary": "72,913"
+  },
+  {
+    "job": "office worker",
+    "salary": "32,266"
+  },
+  {
+    "job": "business analyst",
+    "salary": "91,722"
+  },
+  {
+    "job": "tax specialist",
+    "salary": "86,532"
+  },
+  {
+    "job": "volunteer medic",
+    "salary": "unknown"
+  },
+  {
+    "job": "technical analyst",
+    "salary": "97,360"
+  },
+  {
+    "job": "finance manager",
+    "salary": "112,622"
+  },
+  {
+    "job": "client services",
+    "salary": "63,703"
+  },
+  {
+    "job": "accounts payable",
+    "salary": "50,507"
+  },
+  {
+    "job": "senior manager",
+    "salary": "132,722"
+  },
+  {
+    "job": "telecommunications programmer",
+    "salary": "84,136"
+  },
+  {
+    "job": "computer trainer",
+    "salary": "58,636"
+  },
+  {
+    "job": "technology",
+    "salary": "34,394"
+  },
+  {
+    "job": "technology administrator",
+    "salary": "79,325"
+  },
+  {
+    "job": "assistance vice president of finance",
+    "salary": "163,673"
+  },
+  {
+    "job": "senior accounting specialist",
+    "salary": "89,081"
+  },
+  {
+    "job": "data processing specialist",
+    "salary": "83,211"
+  },
+  {
+    "job": "systems analyst/management consultant",
+    "salary": "unknown"
+  },
+  {
+    "job": "facilities department employee",
+    "salary": "37,318"
+  },
+  {
+    "job": "training coordinator",
+    "salary": "54,850"
+  },
+  {
+    "job": "assistant vice president and supervisor in finance department",
+    "salary": "163,673"
+  },
+  {
+    "job": "software specialist",
+    "salary": "57,122"
+  },
+  {
+    "job": "environmental insurance broker",
+    "salary": "85,479"
+  },
+  {
+    "job": "maintenance worker",
+    "salary": "32,346"
+  },
+  {
+    "job": "Claims Department Vice President",
+    "salary": "177,350"
+  },
+  {
+    "job": "head of Global Infrastructure Group",
+    "salary": "136,624"
+  },
+  {
+    "job": "office manager",
+    "salary": "53,994"
+  },
+  {
+    "job": "management services",
+    "salary": "80,429"
+  },
+  {
+    "job": "Web page designer",
+    "salary": "52,063"
+  },
+  {
+    "job": "technical services employee",
+    "salary": "33,734"
+  },
+  {
+    "job": "managing partner",
+    "salary": "91,984"
+  },
+  {
+    "job": "executive secretary",
+    "salary": "50,932"
+  },
+  {
+    "job": "property claims representative",
+    "salary": "58,487"
+  },
+  {
+    "job": "state tax clerk",
+    "salary": "45,301"
+  },
+  {
+    "job": "audiovisual technologist",
+    "salary": "69,738"
+  },
+  {
+    "job": "Marsh USA",
+    "salary": "39,932"
+  },
+  {
+    "job": "communications",
+    "salary": "39,251"
+  },
+  {
+    "job": "claims examiner",
+    "salary": "58,962"
+  },
+  {
+    "job": "Financial advisor",
+    "salary": "75,511"
+  },
+  {
+    "job": "retired director of administration",
+    "salary": "101,203"
+  },
+  {
+    "job": "financial services representative",
+    "salary": "69,732"
+  },
+  {
+    "job": "carpenter",
+    "salary": "50,382"
+  },
+  {
+    "job": "deputy manager",
+    "salary": "89,994"
+  },
+  {
+    "job": "section chief",
+    "salary": "83,579"
+  },
+  {
+    "job": "New York State Department of Transportation",
+    "salary": "39,390"
+  },
+  {
+    "job": " Ret.",
+    "salary": "35,057"
+  },
+  {
+    "job": "practice director",
+    "salary": "129,669"
+  },
+  {
+    "job": "office renovator",
+    "salary": "unknown"
+  },
+  {
+    "job": "risk assessment",
+    "salary": "32,785"
+  },
+  {
+    "job": "Port Authority of New York and New Jersey",
+    "salary": "37,425"
+  },
+  {
+    "job": "assistant general manager of building services",
+    "salary": "64,869"
+  },
+  {
+    "job": "construction manager",
+    "salary": "85,764"
+  },
+  {
+    "job": "civil engineer",
+    "salary": "75,700"
+  },
+  {
+    "job": "risk finance analyst",
+    "salary": "90,769"
+  },
+  {
+    "job": "executive manager of tunnels",
+    "salary": "102,799"
+  },
+  {
+    "job": "mailroom clerk",
+    "salary": "33,655"
+  },
+  {
+    "job": "executive director",
+    "salary": "106,372"
+  },
+  {
+    "job": "superintendent of police",
+    "salary": "108,143"
+  },
+  {
+    "job": "court officer",
+    "salary": "55,790"
+  },
+  {
+    "job": "recycling program worker",
+    "salary": "unknown"
+  },
+  {
+    "job": "Marketing director",
+    "salary": "116,260"
+  },
+  {
+    "job": "accounting department",
+    "salary": "67,081"
+  },
+  {
+    "job": "sales director",
+    "salary": "139,917"
+  },
+  {
+    "job": "freelance marketing consultant",
+    "salary": "77,131"
+  },
+  {
+    "job": "senior conferences sponsorship coordinator",
+    "salary": "unknown"
+  },
+  {
+    "job": "senior software consultant",
+    "salary": "198,741"
+  },
+  {
+    "job": "Silverstein Properties",
+    "salary": "unknown"
+  },
+  {
+    "job": "financial consultant",
+    "salary": "82,353"
+  },
+  {
+    "job": "senior sales executive",
+    "salary": "95,354"
+  },
+  {
+    "job": "independent trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "foreign exchange products manager",
+    "salary": "108,883"
+  },
+  {
+    "job": "conferences producer",
+    "salary": "60,552"
+  },
+  {
+    "job": "client support administrator",
+    "salary": "44,784"
+  },
+  {
+    "job": "Operations associate",
+    "salary": "62,053"
+  },
+  {
+    "job": "Housekeeping",
+    "salary": "36,022"
+  },
+  {
+    "job": "porter",
+    "salary": "29,460"
+  },
+  {
+    "job": "waiter",
+    "salary": "30,659"
+  },
+  {
+    "job": "cook",
+    "salary": "26,841"
+  },
+  {
+    "job": "credit collections manager",
+    "salary": "65,524"
+  },
+  {
+    "job": "receiving attendant",
+    "salary": "43,852"
+  },
+  {
+    "job": "assistant wine master",
+    "salary": "49,377"
+  },
+  {
+    "job": "food and beverage controller",
+    "salary": "83,216"
+  },
+  {
+    "job": "pastry sous chef",
+    "salary": "56,579"
+  },
+  {
+    "job": "seamstress",
+    "salary": "36,786"
+  },
+  {
+    "job": "delivery clerk",
+    "salary": "53,476"
+  },
+  {
+    "job": "chef",
+    "salary": "63,719"
+  },
+  {
+    "job": "equipment technician",
+    "salary": "64,940"
+  },
+  {
+    "job": "transmitter engineer",
+    "salary": "105,205"
+  },
+  {
+    "job": "Risk Solutions International",
+    "salary": "36,175"
+  },
+  {
+    "job": "American Express",
+    "salary": "39,391"
+  },
+  {
+    "job": "F.M. Global",
+    "salary": "40,060"
+  },
+  {
+    "job": "insurance executive",
+    "salary": "95,723"
+  },
+  {
+    "job": "client specialist",
+    "salary": "69,231"
+  },
+  {
+    "job": "claims adjuster",
+    "salary": "60,465"
+  },
+  {
+    "job": "insurance specialist",
+    "salary": "66,256"
+  },
+  {
+    "job": "relationship manager",
+    "salary": "66,186"
+  },
+  {
+    "job": "insurance adjuster",
+    "salary": "75,327"
+  },
+  {
+    "job": "brokerage services",
+    "salary": "33,720"
+  },
+  {
+    "job": "insurance underwriter",
+    "salary": "106,204"
+  },
+  {
+    "job": "employee in insurance division",
+    "salary": "36,699"
+  },
+  {
+    "job": "risk services",
+    "salary": "37,759"
+  },
+  {
+    "job": "benefits consultant",
+    "salary": "80,372"
+  },
+  {
+    "job": "financial services department",
+    "salary": "71,521"
+  },
+  {
+    "job": "technical assistant",
+    "salary": "62,695"
+  },
+  {
+    "job": "investment banker",
+    "salary": "85,658"
+  },
+  {
+    "job": "senior claims specialist",
+    "salary": "89,794"
+  },
+  {
+    "job": "drywall worker",
+    "salary": "33,085"
+  },
+  {
+    "job": "Maintenance and communications worker",
+    "salary": "32,346"
+  },
+  {
+    "job": "money market broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "Money Broker",
+    "salary": "95,640"
+  },
+  {
+    "job": "account processor",
+    "salary": "39,814"
+  },
+   {
+    "job": "account representative",
+    "salary": "56,388"
+  },
+  {
+    "job": "switchboard operator",
+    "salary": "26,539"
+  },
+  {
+    "job": "Fiduciary Trust International",
+    "salary": "117,826"
+  },
+  {
+    "job": "employee on equity trading desk",
+    "salary": "37,722"
+  },
+  {
+    "job": "Investment Operations Administration",
+    "salary": "62,053"
+  },
+  {
+    "job": "portfolio manager",
+    "salary": "156,217"
+  },
+  {
+    "job": "portfolio analyst",
+    "salary": "92,450"
+  },
+  {
+    "job": "junior trader",
+    "salary": "91,933"
+  },
+  {
+    "job": "computer specialist",
+    "salary": "78,611"
+  },
+  {
+    "job": "business partner",
+    "salary": "113,548"
+  },
+  {
+    "job": "maintenance supervisor",
+    "salary": "56,742"
+  },
+  {
+    "job": "securities analyst",
+    "salary": "74,958"
+  },
+  {
+    "job": "Fiduciary Trust",
+    "salary": "117,826"
+  },
+  {
+    "job": "Lotus software programmer",
+    "salary": "unknown"
+  },
+  {
+    "job": "temporary employee",
+    "salary": "33,366"
+  },
+  {
+    "job": "New York branch general manager",
+    "salary": "59,650"
+  },
+  {
+    "job": "call records management supervisor",
+    "salary": "56,619"
+  },
+  {
+    "job": "office services coordinator",
+    "salary": "42,143"
+  },
+  {
+    "job": "insurance analyst",
+    "salary": "74,958"
+  },
+  {
+    "job": "IQ Financial Systems",
+    "salary": "39,207"
+  },
+  {
+    "job": "sales assistant",
+    "salary": "48,063"
+  },
+  {
+    "job": "Keefe",
+    "salary": "35,732"
+  },
+  {
+    "job": "head of equity trading",
+    "salary": "36,538"
+  },
+  {
+    "job": "Securities analyst",
+    "salary": "74,958"
+  },
+  {
+    "job": "Equity Trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "Trader",
+    "salary": "141,084"
+  },
+  {
+    "job": "Securities Analyst",
+    "salary": "74,958"
+  },
+  {
+    "job": "financial researcher",
+    "salary": "161,904"
+  },
+  {
+    "job": "research assistant",
+    "salary": "51,527"
+  },
+  {
+    "job": "senior research analyst",
+    "salary": "83,054"
+  },
+  {
+    "job": "trader's assistant",
+    "salary": "141,084"
+  },
+  {
+    "job": "career consultant",
+    "salary": "42,595"
+  },
+  {
+    "job": "claims negotiator",
+    "salary": "37,698"
+  },
+  {
+    "job": "sales support associate",
+    "salary": "52,170"
+  },
+  {
+    "job": "keyboard specialist",
+    "salary": "57,122"
+  },
+  {
+    "job": "tax auditor",
+    "salary": "83,903"
+  },
+  {
+    "job": "Tax conferee",
+    "salary": "unknown"
+  },
+  {
+    "job": "section head",
+    "salary": "79,296"
+  },
+  {
+    "job": "mediator",
+    "salary": "55,680"
+  },
+  {
+    "job": "sales tax auditor",
+    "salary": "83,903"
+  },
+  {
+    "job": "tax fraud investigator",
+    "salary": "57,828"
+  },
+  {
+    "job": "assistant deputy commissioner",
+    "salary": "90,591"
+  },
+  {
+    "job": "One Source (Hudson Shatz)",
+    "salary": "unknown"
+  },
+  {
+    "job": "Local 3 electrician apprentice",
+    "salary": "37,266"
+  },
+  {
+    "job": "customer service associate",
+    "salary": "31,432"
+  },
+  {
+    "job": "property manager/subterranean areas",
+    "salary": "unknown"
+  },
+  {
+    "job": "environmental specialist",
+    "salary": "56,352"
+  },
+  {
+    "job": "Radianz",
+    "salary": "38,805"
+  },
+  {
+    "job": "Leasing representative",
+    "salary": "57,809"
+  },
+  {
+    "job": "Sandler O'Neill & Partners",
+    "salary": "37,100"
+  },
+  {
+    "job": "bond salesman financial adviser",
+    "salary": "unknown"
+  },
+  {
+    "job": "associate director",
+    "salary": "96,581"
+  },
+  {
+    "job": "associate director in charge of information technology",
+    "salary": "128,765"
+  },
+  {
+    "job": "maintenance",
+    "salary": "32,346"
+  },
+  {
+    "job": "mason tender",
+    "salary": "unknown"
+  },
+  {
+    "job": "mail carrier",
+    "salary": "42,723"
+  },
+  {
+    "job": "security manager",
+    "salary": "92,748"
+  },
+  {
+    "job": "Account manager",
+    "salary": "71,733"
+  },
+  {
+    "job": "Allendale Insurance",
+    "salary": "39,671"
+  },
+  {
+    "job": "risk manager",
+    "salary": "116,491"
+  },
+  {
+    "job": "nurse epidemiologist",
+    "salary": "85,316"
+  },
+  {
+    "job": "travel consultant ",
+    "salary": "69,001"
+  },
+  {
+    "job": "Washington Group International",
+    "salary": "36,377"
+  },
+  {
+    "job": "environmental engineer",
+    "salary": "57,072"
+  },
+  {
+    "job": "mechanical engineer",
+    "salary": "90,851"
+  },
+  {
+    "job": "assistant vice president of media relations",
+    "salary": "113,094"
+  },
+  {
+    "job": "executive producer",
+    "salary": "136,297"
+  },
+  {
+    "job": "librarian",
+    "salary": "66,322"
+  },
+  {
+    "job": "press and analyst relations manager",
+    "salary": "unknown"
+  },
+  {
+    "job": "buyer",
+    "salary": "65,133"
+  },
+  {
+    "job": "emergency room secretary",
+    "salary": "62,346"
+  },
+  {
+    "job": "planning manager",
+    "salary": "95,300"
+  },
+  {
+    "job": "security analyst",
+    "salary": "117,125"
+  },
+  {
+    "job": "computer service",
+    "salary": "34,849"
+  },
+  {
+    "job": "endoscopy division",
+    "salary": "38,951"
+  },
+  {
+    "job": "spiritual counselor",
+    "salary": "49,084"
+  },
+  {
+    "job": "electrical engineer and church deacon",
+    "salary": "unknown"
+  },
+  {
+    "job": "marketing supervisor",
+    "salary": "76,049"
+  },
+  {
+    "job": "management consultant",
+    "salary": "108,588"
+  },
+  {
+    "job": "senior analyst",
+    "salary": "90,506"
+  },
+  {
+    "job": "plant manager",
+    "salary": "125,642"
+  },
+  {
+    "job": "chief financial officer",
+    "salary": "161,197"
+  },
+  {
+    "job": "assistant vice president and merchandise manager",
+    "salary": "unknown"
+  },
+  {
+    "job": "sales engineer",
+    "salary": "144,711"
+  },
+  {
+    "job": "Sudbury Food Pantry at Our Lady of Fatima Church",
+    "salary": "unknown"
+  },
+  {
+    "job": "Chief of Digital Strategy for Europe",
+    "salary": "126,112"
+  },
+  {
+    "job": "retired astronautical engineer and manager of space programs",
+    "salary": "unknown"
+  },
+  {
+    "job": "road crew",
+    "salary": "28,027"
+  },
+  {
+    "job": "co-founder and chief technology officer",
+    "salary": "152,612"
+  },
+  {
+    "job": "assistant vice president of merchandise planning and allocation",
+    "salary": "113,094"
+  },
+  {
+    "job": "interim CEO",
+    "salary": "unknown"
+  },
+  {
+    "job": "housekeeping worker",
+    "salary": "36,022"
+  },
+  {
+    "job": "national sales manager",
+    "salary": "75,885"
+  },
+  {
+    "job": "retired tester",
+    "salary": "unknown"
+  },
+  {
+    "job": "transcriber",
+    "salary": "71,933"
+  },
+  {
+    "job": "cameraman",
+    "salary": "41,376"
+  },
+  {
+    "job": "actress and photographer",
+    "salary": "unknown"
+  },
+  {
+    "job": "Northeastern University student",
+    "salary": "38,302"
+  },
+  {
+    "job": "Janitorial",
+    "salary": "31,890"
+  },
+  {
+    "job": "Compaq",
+    "salary": "33,555"
+  },
+  {
+    "job": "store manager",
+    "salary": "59,019"
+  },
+  {
+    "job": "battalion chief",
+    "salary": "33,146"
+  },
+  {
+    "job": "first deputy commissioner",
+    "salary": "90,591"
+  },
+  {
+    "job": "chief of department",
+    "salary": "34,465"
+  },
+  {
+    "job": "Battalion Commander",
+    "salary": "42,479"
+  },
+  {
+    "job": "fire chaplain",
+    "salary": "unknown"
+  },
+  {
+    "job": "actor",
+    "salary": "39,967"
+  },
+  {
+    "job": "vice president for sales",
+    "salary": "163,333"
+  },
+  {
+    "job": "CEO",
+    "salary": "263,333"
+  },
+  {
+    "job": "Paramedic",
+    "salary": "67,729"
+  },
+  {
+    "job": "chief",
+    "salary": "33,236"
+  },
+  {
+    "job": "police academy video unit",
+    "salary": "unknown"
+  },
+  {
+    "job": "security guard",
+    "salary": "27,138"
+  },
+  {
+    "job": "photographer",
+    "salary": "47,738"
+  },
+  {
+    "job": "head trade clerk",
+    "salary": "unknown"
+  },
+  {
+    "job": "property manager",
+    "salary": "70,292"
+  },
+  {
+    "job": "construction foreman",
+    "salary": "61,458"
+  },
+  {
+    "job": "customer service representative",
+    "salary": "31,432"
+  },
+  {
+    "job": "pro hockey scouting director",
+    "salary": "unknown"
+  },
+  {
+    "job": "pro hockey scout",
+    "salary": "unknown"
+  },
+  {
+    "job": "director of development",
+    "salary": "120,144"
+  },
+  {
+    "job": "UA Flight 175",
+    "salary": "unknown"
+  },
+  {
+    "job": "senior executive",
+    "salary": "125,525"
+  },
+  {
+    "job": "computer research specialist",
+    "salary": "78,611"
+  },
+  {
+    "job": "merchant marine",
+    "salary": "78,205"
+  },
+  {
+    "job": "artist",
+    "salary": "67,838"
+  },
+  {
+    "job": "sales and marketing associate",
+    "salary": "60,022"
+  },
+  {
+    "job": "director of new market development",
+    "salary": "120,144"
+  },
+  {
+    "job": "priest",
+    "salary": "38,474"
+  },
+  {
+    "job": "post doctoral candidate",
+    "salary": "53,497"
+  },
+  {
+    "job": "retired environmental engineer",
+    "salary": "57,072"
+  },
+  {
+    "job": "defense corporate executive",
+    "salary": "95,723"
+  },
+  {
+    "job": "marine surveyor",
+    "salary": "23,228"
+  },
+  {
+    "job": "chairman",
+    "salary": "103,501"
+  },
+  {
+    "job": "director of human resources",
+    "salary": "121,455"
+  },
+  {
+    "job": "comptroller",
+    "salary": "60,335"
+  },
+  {
+    "job": "exporter",
+    "salary": "34,552"
+  },
+  {
+    "job": "Westfalia Investments",
+    "salary": "unknown"
+  },
+  {
+    "job": "security consultant",
+    "salary": "95,147"
+  },
+  {
+    "job": "personal banker",
+    "salary": "44,136"
+  },
+  {
+    "job": "subcontractor",
+    "salary": "54,216"
+  },
+  {
+    "job": "emergency medical technician",
+    "salary": "40,836"
+  },
+  {
+    "job": "paramedic",
+    "salary": "67,729"
+  },
+  {
+    "job": "senior associate in systems development",
+    "salary": "45,005"
+  },
+  {
+    "job": "import manager",
+    "salary": "47,805"
+  },
+  {
+    "job": "network integration manager",
+    "salary": "119,317"
+  }
+]

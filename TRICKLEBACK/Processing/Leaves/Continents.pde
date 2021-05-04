@@ -1,0 +1,42 @@
+void setContinents() {
+
+  countryMap.put("Cameroon", "Africa");
+  countryMap.put("Germany", "Europe");
+  countryMap.put("France", "Europe");
+  countryMap.put("Nigeria", "Africa");
+  countryMap.put("Czech Republic", "Europe");
+  countryMap.put("United States", "North America");
+  countryMap.put("Switzerland", "Europe");
+  countryMap.put("Belgium", "Europe");
+  countryMap.put("Netherlands", "Europe");
+  countryMap.put("Botswana", "Africa");
+  countryMap.put("Australia", "Australasia");
+  countryMap.put("Russian Federation", "Russia");
+  countryMap.put("Canada", "North America");
+  countryMap.put("Spain", "Europe");
+  countryMap.put("Hungary", "Europe");
+  countryMap.put("Ghana", "Africa");
+  countryMap.put("South Africa", "Africa");
+  countryMap.put("Italy", "Europe");
+  countryMap.put("United Kingdom", "Europe");
+  countryMap.put("Sierra Leone", "Africa");
+  countryMap.put("Senegal", "Africa");
+  countryMap.put("Poland", "Europe");
+  countryMap.put("Japan", "Asia");
+  countryMap.put("Gabon", "Africa");
+  countryMap.put("Brazil", "South America");
+  countryMap.put("Sweden", "Europe");
+  countryMap.put("Colombia", "South America");
+  countryMap.put("French Guiana", "Africa");
+  countryMap.put("Austria", "Europe");
+  countryMap.put("Benin", "Africa");
+  countryMap.put("Norway", "Europe");
+  countryMap.put("Cyprus", "Europe");
+  countryMap.put("India", "Asia");
+  countryMap.put("Estonia", "Europe");
+  countryMap.put("China", "Asia");
+  countryMap.put("Malaysia", "Asia");
+  countryMap.put("Lithuania", "Europe");
+  countryMap.put("Singapore", "Asia");
+  countryMap.put("Sri Lanka", "Asia");
+}

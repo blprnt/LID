@@ -1,0 +1,1867 @@
+-------:0
+38475
+8
+1
+  Mary Alice Wahlstrom:retired    0    1
+  Michael Theodoridis:consultant    88508    1
+  Andrew Peter Charles Curry Green:director    129669    0
+  Waleed Joseph Iskandar:Chief of Digital Strategy for Europe    126112    0
+  John Nicholas Humber: Jr.    38475    0
+  Carolyn Mayer Beug:filmmaker    98158    1
+  Rahma Salie and her unborn child:consultant    88508    1
+  Jeffrey Peter Mladenik:CEO    263333    0
+  David E. Retik:partner    139243    0
+  Christopher R. Zarba: Jr.    38475    1
+  David Lawrence Angell:executive producer    136297    1
+  Susan A. Mackay:assistant vice president of merchandise planning and allocation    113094    0
+  Carol Ann Flyzik:marketing supervisor    76049    0
+  Thelma Cuccinello:AA Flight 11    0    0
+  Karleton Douglas Beye Fyfe:senior analyst    90506    1
+  Christine Johnna Barbuto:buyer    65133    0
+  Mary Lynn Edwards Angell:librarian    66322    1
+  Robin Lynne Kaplan:manager    80429    0
+  Kelly Ann Booms:accountant    67081    0
+-------:1
+28027
+9
+0
+  David P. Kovalcin:engineer    105205    0
+  Peter Alan Gay:plant manager    125642    1
+  Judith Camilla Larocque:manager    80429    0
+  Jeffrey W. Coombs:security analyst    117125    0
+  Peter Paul Hashem:trader    141084    0
+  Kenneth E. Waldie:flight attendant    36262    1
+  Seima David Aoyama:accountant    67081    0
+  Robert Grant Norton:retiree    35985    1
+  Philip Martin Rosenzweig:vice president    177350    0
+  David DiMeglio:computer service    34849    0
+  Daniel John Lee:road crew    28027    0
+  Alberto Dominguez:World Trade Center    34305    0
+  Jacqueline June Norton:retiree    35985    1
+  Mary Barbara Trentini:retired    0    1
+  Anna S. W. Allison:consultant    88508    0
+  John Joseph Wenckus:vice president    177350    1
+  Alexander Milan Filipov:electrical engineer    85884    0
+  Cora Hidalgo Holland:Sudbury Food Pantry at Our Lady of Fatima Church    0    0
+  James Anthony Trentini:retired    0    1
+  Richard Barry Ross:consultant    88508    1
+  John A. Hofer:owner    60197    1
+-------:2
+141084
+20
+1
+  Stacey Leigh Sanders:technical analyst    97360    1
+  Katherine Susan Wolf:null    33782    0
+  Mary Catherine Murphy Boffa:vice president    177350    1
+  Daniel R. Nolan:vice president    177350    0
+  Steven P. Morello:facilities manager    66767    1
+  Jacqueline Young:retiree    35985    0
+  Marlyn Del Carmen Garcia:Marsh & McLennan Cos. Inc.    36028    0
+  Kristen Leigh Montanaro:administrative assistant    43528    6
+  Danielle Anne Delie:World Trade Center    34305    0
+  Linda M. Colon:vice president    177350    1
+  Joseph Mangano:software analyst    72913    0
+  Raphael Scorca:trader    141084    1
+  Patricia A. Kuras:Marsh & McLennan Cos. Inc.    36028    1
+  Alena Sesinova:systems administrator    82792    0
+  Martin Giovinazzo:maintenance worker    32346    2
+  Carlos Dominguez:World Trade Center    34305    0
+  Steven Leon Howell:facilities manager    66767    2
+  Gene Edward Maloy:analyst    74958    1
+  William David Moskal:Marsh USA    39932    1
+  Salvatore F. Pepe:vice president    177350    2
+  Liming Gu:Marsh & McLennan Cos. Inc.    36028    0
+-------:3
+177350
+26
+2
+  Kevin F. Conroy:accountant    67081    0
+  Harry Taback:engineer    105205    1
+  Richard Anthony Aceto:tax specialist    86532    0
+  Paul James Battaglia:consultant    88508    2
+  Joseph V. Maggitti:managing partner    91984    2
+  Christian Louis DeSimone:accountant    67081    2
+  Jeffrey Brian Gardner:environmental insurance broker    85479    0
+  Mark Lawrence Charette:vice president    177350    2
+  David Gustaf Peter Tengelin:claims adjuster    60465    3
+  Jennifer Lynn Kane:accountant    67081    1
+  Michael Gregory McGinty:vice president    177350    2
+  Carl Anthony DiFranco:vice president    177350    3
+  Francisco Heladio Munoz:consultant    88508    0
+  Thomas W. Duffy:Marsh & McLennan Cos. Inc.    36028    3
+  Palmina DelliGatti:accountant    67081    0
+  Charles William Mathers:managing director    173026    2
+  Rebecca Lee Koborie:secretary    56335    0
+  Siucheung Steve Wong:manager    80429    2
+  Jack Charles Aron:information systems technician    84560    1
+  Lillian Caceres:technology administrator    79325    0
+-------:4
+36028
+22
+1
+  Ernest James:accountant    67081    0
+  Arcelia Castillo:accountant    67081    0
+  Richard George Bruehert:Marsh & McLennan Cos. Inc.    36028    0
+  Janet Marie Alonso:analyst    74958    2
+  Michael Charles Sorresse:vice president    177350    0
+  Siew-Nya Ang:technical analyst    97360    0
+  Peter A. Chirchirillo:Marsh & McLennan Cos. Inc.    36028    0
+  Vincent Gallucci:vice president    177350    3
+  Trudi M. Alagero:vice president    177350    0
+  Virginia Anne Ormiston:null    33782    0
+  Patrick Sean Murphy:vice president    177350    1
+  Jason Matthew Coffey:accountant    67081    1
+  Cesar R. Garcia:Marsh & McLennan Cos. Inc.    36028    1
+  Kevin James Murphy:consultant    88508    1
+  Rudy Mastrocinque:property claims representative    58487    2
+  James D. Cleere:vice president    177350    0
+  Gary Robert Haag:Claims Department Vice President    177350    1
+  Daniel Michael Coffey:vice president    177350    2
+  Ivelin Ziminski:null    33782    1
+  Earl Richard Shanahan:senior vice president    188080    1
+  Salvatore J. Zisa:senior vice president    188080    2
+  Erwin L. Erker:vice president    177350    0
+  Dolores Brigitte Fanelli:Marsh & McLennan Cos. Inc.    36028    2
+  Virginia May Jablonski:vice president    177350    2
+-------:5
+82792
+13
+1
+  Alejandro Cordero:World Trade Center    34305    0
+  Michael Jude D'Esposito:Computer programmer    72790    0
+  Venesha Orintia Richards:secretary    56335    0
+  Maria LaVache:receptionist    34661    0
+  Elaine Cillo:vice president    177350    1
+  Peter Guyder Wallace:vice president    177350    0
+  Patricia Malia Colodner:secretary    56335    0
+  Astrid Elizabeth Sohan:manager    80429    0
+  Marsha A. Rodriguez:null    33782    0
+  Nezam A. Hafiz:computer analyst    94583    0
+  Jonathan C. Randall:manager    80429    1
+  Gregory Reda:systems administrator    82792    1
+  Joseph Michael Sisolak:trader    141084    2
+  Maynard S. Spence: Jr.    38475    0
+  Christopher Epps:partner    139243    1
+  Carole Eggert:assistant vice president and supervisor in finance department    163673    1
+  Kristen Nicole Fiedel:Marsh & McLennan Cos. Inc.    36028    1
+  Wayne Alan Russo:accountant    67081    2
+  Mary D'Antonio:Marsh & McLennan Cos. Inc.    36028    1
+  Eileen Mary Rice:executive assistant    71902    0
+  Marlyn Capito Bautista:accounts payable    50507    2
+-------:6
+136624
+9
+1
+  Jon Leslie Albert:vice president    177350    0
+  Brock Joel Safronoff:analyst    74958    1
+  Gary Edward Lasko:director    129669    1
+  Stephen James Lauria:project manager    96265    0
+  Sandra Fajardo-Smith:accountant    67081    1
+  Debora I. Maldonado:secretary    56335    1
+  Mark Louis Rosenberg:software engineer    136380    1
+  Bernard Mascarenhas:Marsh & McLennan Cos. Inc.    36028    1
+  William F. Abrahamson:business analyst    91722    0
+  Stephanie Veronica Irby:accountant    67081    1
+  James Douglas Halvorson:head of Global Infrastructure Group    136624    1
+  Roberta B. Heber:analyst    74958    0
+  Cecile Marella Caguicla:assistance vice president of finance    163673    0
+  Francis Jude Feely:vice president    177350    0
+  Sharon M. Balkcom:computer systems manager    104602    0
+  Shevonne Olicia Mentis:clerk    45301    0
+  Danny A. Correa-Gutierrez:Marsh & McLennan Cos. Inc.    36028    0
+  Monica Anne Lyons:executive assistant    71902    0
+  Shreyas S. Ranganath:consultant    88508    0
+  Maureen Lyons Olson:insurance broker    85479    1
+-------:7
+34661
+7
+0
+  Daphne Ferlinda Elder:business analyst    91722    0
+  Patricia Florence Di Chiaro:secretary    56335    0
+  Nancy T. Mauro:insurance broker    85479    1
+  Ye Wei Liang:information systems technician    84560    1
+  Margaret Quinn Orloske:vice president    177350    1
+  Michael Henry Waye:systems administrator    82792    1
+  Susan Marie Clyne:Marsh & McLennan Cos. Inc.    36028    1
+  Laura Maria Longing:vice president    177350    0
+  Patricia Ann McAneney:World Trade Center    34305    0
+  Patricia A. Cody:World Trade Center    34305    0
+  Linda C. Mair-Grayling:receptionist    34661    0
+  Alex F. Ciccone:vice president    177350    1
+  Nina Patrice Bell:senior manager    132722    0
+  Victoria Alvarez-Brito:Marsh & McLennan Cos. Inc.    36028    0
+  DaJuan Hodges:management services    80429    0
+  Christy A. Addamo:accountant    67081    1
+  Howard Barry Kirschbaum:security officer    29466    0
+  Kiran Kumar Reddy Gopu:software engineer    136380    0
+  Thomas Joseph Sgroi:insurance adjuster    75327    0
+  Hilario Soriano Sumaya: Jr.    38475    0
+  John J. Tobin:senior vice president    188080    0
+-------:8
+67081
+5
+0
+  Wayne White:manager    80429    0
+  William A. Karnes:vice president    177350    0
+  Richard G. Catarelli:World Trade Center    34305    1
+  R. Mark Rasweiler:vice president    177350    0
+  Cheryl Ann Monyak:executive    95723    1
+  Tara E. Debek:vice president    177350    0
+  Mary Teresa Caulfield:World Trade Center    34305    0
+  Jane S. Beatty:technical support    67457    0
+  Gayle R. Greene:vice president    177350    1
+  Scott D. Bart:vice president    177350    0
+  Kathryn Blair Lee:Web page designer    52063    1
+  Joseph Anthony Ianelli:accountant    67081    0
+  Elena F. Ledesma:maintenance    32346    0
+  Barbara P. Walsh:TV commentator    0    0
+  Dorothy Mauro:state tax clerk    45301    0
+  Hamidou S. Larry:Marsh & McLennan Cos. Inc.    36028    0
+  James A. Oakley:partner and corporate bond broker    95640    0
+  Susan Gayle Santo:null    33782    0
+  Valerie Joan Hanna:senior vice president    188080    0
+  Kermit Charles Anderson:analyst    74958    0
+  Thomas Francis Wise:null    33782    0
+  Barbara Mary Habib:vice president    177350    0
+  Peter Moutos:Marsh USA    39932    1
+  James J. Hobin:vice president    177350    0
+-------:9
+177350
+3
+0
+  Mannie Leroy Clark:World Trade Center    34305    0
+  Yelena Melnichenko:systems administrator    82792    0
+  Jacquelyn Delaine Aldridge-Frederick:accountant    67081    0
+  John M. Rigo:senior vice president    188080    1
+  Kathryn Anne Shatzoff:executive assistant    71902    0
+  Jeanette Louise Lafond-Menichino:World Trade Center    34305    0
+  Sal Edward Tieri: Jr.    38475    0
+  Lawrence Don Kim:Marsh & McLennan Cos. Inc.    36028    0
+  Robert David Pugliese:trader    141084    0
+  Denise Elizabeth Crant:facilities department employee    37318    0
+  John Anthony Spataro:vice president    177350    0
+  Michael Lawrence Hannan:vice president    177350    1
+  William Reed Bethke:Computer programmer    72790    0
+  Vincent M. Boland: Jr.    38475    0
+  Patrice Braut:technology    34394    0
+  Salvatore Gitto:Marsh & McLennan Cos. Inc.    36028    0
+  Richard Michael Caproni:senior accounting specialist    89081    1
+  Virginia Elizabeth Fox:Marsh & McLennan Cos. Inc.    36028    0
+  Alexander H. Chiang:Marsh & McLennan Cos. Inc.    36028    0
+  Mark Shulman:consultant    88508    0
+  Douglas Jon Farnum:software specialist    57122    0
+-------:10
+36028
+6
+1
+  Maria Jakubiak:accountant    67081    0
+  Michael John Cahill:attorney    94793    0
+  James Edward Potorti:vice president    177350    0
+  Phyllis Gail Talbot:vice president    177350    0
+  Lydia Estelle Bravo:nurse    73211    0
+  Narender Nath:World Trade Center    34305    0
+  Jennifer M. Tino:accountant    67081    0
+  Patricia Ann Cimaroli Massari and her unborn child:analyst    74958    0
+  Ronald Edward Comer:insurance executive    95723    1
+  Amenia Rasool:accountant    67081    0
+  William Thomas Dean:Marsh & McLennan Cos. Inc.    36028    1
+  Angela Reed Kyte:accountant    67081    0
+  Gerald Michael Olcott:Marsh & McLennan Cos. Inc.    36028    1
+  Horace Robert Passananti:vice president    177350    3
+  Timothy E. Reilly:Cantor Fitzgerald    37502    0
+  Susan M. Sauer:managing director    173026    0
+  Janice Juloise Brown:accountant    67081    0
+  Alan Jay Richman:vice president    177350    0
+  Michele Coyle-Eulau:systems analyst/management consultant    0    0
+  Edward Carlino:Marsh & McLennan Cos. Inc.    36028    0
+  Lisa Marie Terry:vice president    177350    0
+-------:11
+80429
+6
+1
+  Dennis Gerard Taormina: Jr.    38475    1
+  Charles Austin McCrann:senior vice president    188080    1
+  Katherine Bantis:Marsh & McLennan Cos. Inc.    36028    0
+  Andrew J. Bailey:consultant    88508    0
+  Rena Sam Dinnoo:accountant    67081    0
+  Leah Elizabeth Oliver:communications    39251    1
+  Thomas Joseph Celic:vice president    177350    0
+  Linda Rosenbaum:claims examiner    58962    0
+  Robert Clinton Kennedy:vice president    177350    1
+  Thomas V. Linehan: Jr.    38475    1
+  Rajesh Khandelwal:Marsh & McLennan Cos. Inc.    36028    0
+  Jeffrey David Wiener:manager    80429    1
+  William John Dimmling:vice president    177350    0
+  Jimmy Nevill Storey:senior vice president    188080    0
+  Brenda E. Conway:analyst    74958    0
+  William R. Steiner:firefighter    70439    0
+  Edna Cintron:administrative assistant    43528    0
+  Elizabeth Ann Darling:business analyst    91722    0
+  Richard J. O'Connor:insurance broker    85479    0
+  Michael Alaine Parkes:accountant    67081    0
+  Jean C. DePalma:vice president    177350    0
+  David Joseph Grimner:Marsh & McLennan Cos. Inc.    36028    0
+-------:12
+34305
+6
+0
+  Steven George Weinstein:null    33782    0
+  Zhanetta Valentinovna Tsoy:accountant    67081    0
+  Norma C. Taddei:null    33782    0
+  Gary Eugene Bird:vice president    177350    0
+  Steven A. Giorgetti:vice president    177350    1
+  Nicholas Andrew Bogdan:Marsh & McLennan Cos. Inc.    36028    0
+  William Otto Caspar:data processing specialist    83211    0
+  Luis Jimenez: Jr.    38475    0
+  Digna Alexandra Costanza:Marsh & McLennan Cos. Inc.    36028    0
+  Garo H. Voskerijian:systems administrator    82792    1
+  Kenneth Frederick Rice III:vice president    177350    1
+  Christopher Joseph Dunne:World Trade Center    34305    0
+  Marion Victoria Manning:executive secretary    50932    0
+  Eugenia McCann Piantieri:Marsh & McLennan Cos. Inc.    36028    0
+  Catherine K. Fagan:World Trade Center    34305    0
+  Susan A. Ruggiero:vice president    177350    2
+  Tonyell F. McDay:customer service    31432    0
+  Frank G. Schott: Jr.    38475    1
+  Daniel L. Maher:vice president    177350    0
+  Michael Lepore:technical services employee    33734    0
+-------:13
+36028
+6
+0
+  Ramzi A. Doany:auditor    83903    0
+  Susan D. Murray:Marsh & McLennan Cos. Inc.    36028    1
+  Robert Allan Hepburn:office manager    53994    0
+  Mohammed Shajahan:null    33782    0
+  Colin Arthur Bonnett:telecommunications programmer    84136    0
+  Joanne Rubino:tax specialist    86532    1
+  JoAnn L. Heltibridle:vice president    177350    1
+  Kenneth Charles Ledee:accountant    67081    0
+  Jenny Seu Kueng Low Wong:vice president    177350    0
+  Mary Domenica Stanley:vice president    177350    0
+  Arthur Warren Scullin:senior vice president    188080    2
+  Dominique Lisa Pandolfo:Marsh & McLennan Cos. Inc.    36028    0
+  Donna Marie Clarke:Marsh & McLennan Cos. Inc.    36028    0
+  Kyung Hee Casey Cho:claims examiner    58962    0
+  Michael Andrew Bane:Marsh & McLennan Cos. Inc.    36028    0
+  Manuel L. Lopez:manager    80429    1
+  Timothy Aaron Haviland:project manager    96265    0
+  Chapelle Renee Stewart Sarker:consultant    88508    0
+  Ana Mercedes Centeno:accountant    67081    0
+  Michael Joseph Zinzi:trader    141084    0
+  Eskedar Melaku:vice president    177350    0
+-------:14
+60155
+6
+0
+  Nurul H. Miah:audiovisual technologist    69738    1
+  James Christopher Cappers:vice president    177350    0
+  Gina Sztejnberg:senior vice president    188080    0
+  Warren Grifka:Marsh & McLennan Cos. Inc.    36028    0
+  Lars Peter Qualben:senior vice president    188080    0
+  Shakila Yasmin:computer specialist    78611    1
+  Michael E. Tinley:vice president    177350    0
+  John G. Ueltzhoeffer:software specialist    57122    0
+  Jon Richard Grabowski:vice president    177350    0
+  Linda Ivelisse Rivera:Human resources    60155    0
+  Richard M. Keane:senior accounting specialist    89081    0
+  Malissa Y. White:Human resources    60155    0
+  Dorothy Morgan:broker    95640    0
+  Philip V. Calcagno:World Trade Center    34305    1
+  Daniel Hal Crisman:training coordinator    54850    0
+  Louise A. Lynch:vice president    177350    2
+  Dorota Kopiczko:accountant    67081    0
+  Doreen J. Angrisani:finance manager    112622    1
+  William Russell Peterson:claims examiner    58962    0
+  Lorisa Ceylon Taylor:insurance broker    85479    0
+  Louis Joseph Minervino:vice president    177350    0
+  Carol Ann La Plante:receptionist    34661    0
+  Rosa Maria Feliciano:Marsh & McLennan Cos. Inc.    36028    0
+-------:15
+58636
+12
+0
+  Catherine T. Smith:vice president    177350    0
+  Alva Cynthia Jeffries Sanchez:analyst    74958    0
+  Matthew Douglas Horning:database administrator    119553    0
+  Scott C. Vasel:insurance analyst    74958    1
+  Cesar Amoranto Alviar:accountant    67081    1
+  Joel Miller:World Trade Center    34305    2
+  Michael S. Baksh:client services    63703    0
+  Harry Glenn:vice president    177350    2
+  Craig Neil Gibson:insurance broker    85479    1
+  Paul Rexford Hughes:consultant    88508    2
+  Denis Francis Lavelle:accountant    67081    1
+  Kevin L. Bowser:computer trainer    58636    0
+  Jeffrey Robinson:analyst    74958    1
+  Benjamin James Walker:managing director    173026    1
+  Donna M. Bernaerts:Computer programmer    72790    0
+  William A. Chalcoff:World Trade Center    34305    0
+  Stanley McCaskill:director    129669    0
+  Judith Florence Hofmiller:senior software consultant    198741    0
+  Abigail Medina:insurance broker    85479    0
+  Suresh Yanamadala:consultant    88508    0
+  Janice Lee Blaney:consultant    88508    0
+  Mirna A. Duarte:World Trade Center    34305    0
+-------:16
+88508
+2
+0
+  Deepa Pakkala:consultant    88508    0
+  Francis Deming:practice director    129669    0
+  Lyudmila Ksido:consultant    88508    0
+  Thomas Patrick Farrelly:Computer programmer    72790    0
+  Terrance Andre Aiken:consultant    88508    0
+  Harshad Sham Thatte:consultant    88508    0
+  Nancy Yuen Ngo:consultant    88508    0
+  David Scott Suarez:consultant    88508    0
+  Katie Marie McCloskey:customer service    31432    0
+  Tatyana Bakalinskaya:World Trade Center    34305    0
+  Peter Anton Klein:consultant    88508    0
+  Paul Joseph Simon:consultant    88508    0
+  John P. Lozowsky:police officer    65899    0
+  Jerrold Hughes Paskins:insurance executive    95723    1
+  Lamar Demetrius Hulse:security guard    27138    0
+  Boris Khalif:consultant    88508    0
+  Rufino C.F. Santos III:consultant    88508    0
+  David Garcia:consultant    88508    0
+  Thomas H. Polhemus:analyst    74958    0
+  Joseph Lostrangio:software analyst    72913    1
+  Sanford M. Stoller:consultant    88508    0
+  Faina Rapoport:Computer programmer    72790    0
+  Hemanth Kumar Puttur:database administrator    119553    0
+-------:17
+49747
+24
+1
+  Loretta Ann Vero:consultant    88508    1
+  Sigrid Charlotte Wiswe:consultant    88508    1
+  Shashikiran Lakshmikantha Kadaba:consultant    88508    0
+  Bridget Ann Esposito:consultant    88508    1
+  Anne T. Ransom:consultant    88508    1
+  Yvonne Lucia Bonomo:corporate travel booker    33852    10
+  Lucia Crifasi:American Express    39391    1
+  Lisa Yvonne Kearney-Griffin:travel agent    49747    2
+  Benito Valentin:consultant    88508    1
+  Deepika Kumar Sattaluri:consultant    88508    0
+  Karen Renda:travel agent    49747    1
+  Prokopios Paul Zois:travel agent    49747    3
+  Robert Gerlich:account associate    58915    0
+  Sandra Conaty Brace:administrative assistant    43528    0
+  Gennady Boyarsky:travel agent    49747    2
+  Joseph M. Calandrillo:Risk Solutions International    36175    0
+  Nancy C. Doloszycki Farley:claims negotiator    37698    0
+  Stephanie Marie McKenna:accounting department    67081    0
+  William Lum: Jr.    38475    0
+  Glenroy I. Neblett:consultant    88508    0
+  Aida Rosario:manager    80429    0
+-------:18
+88508
+4
+0
+  Nitin Ramesh Parandkar:consultant    88508    0
+  Steve Morris:managing director    173026    0
+  Sean Booker: Sr.    37065    1
+  Richard L. Allen:volunteer medic    0    1
+  Kenneth Albert Zelman:consultant    88508    0
+  Christine Sheila McNulty:food service handler    25380    0
+  Robert John Caufield:electrician    51495    1
+  Thomas J. Ashton:electrician    51495    1
+-------:19
+80429
+18
+0
+  Jennifer Yen Wong:analyst    74958    1
+  Celeste Torres Victoria:manager    80429    0
+  John Christopher Moran:battalion commander    42479    0
+  Sarah Ali Escarcega:freelance marketing consultant    77131    0
+  Karlie Rogers:manager    80429    1
+  Susan Huie:analyst    74958    2
+  Paul Gary Bristow:conferences producer    60552    3
+  Sarah Anne Redheffer:manager    80429    0
+  Barbara A. Shaw:Assistant Deputy Chief    108121    2
+  Amy Hope Lamonsoff:manager    80429    1
+  Elaine Myra Greenberg:Compaq    33555    1
+  Oliver Bennett:vice president    177350    1
+  Brian Magee:manager    80429    0
+  Dinah Webster:manager    80429    2
+  Melanie Louise de Vere:manager    80429    0
+  Laura Rockefeller:manager    80429    0
+  Michele Beale:firefighter    70439    0
+  Neil James Cudmore:sales director    139917    2
+  Simon James Turner:publisher    61408    2
+  Elisa Giselle Ferraina:manager    80429    0
+  David E. Rivers:Marsh & McLennan Cos. Inc.    36028    0
+  Joanna Vidal:manager    80429    0
+  Michael Gann:Aon Corp.    0    0
+  David M. Berray:head of global sales for eSpeed    136533    0
+-------:20
+177350
+10
+0
+  Christian Hans Rudolf Wemmers:director    129669    0
+  Steven Glick:vice president    177350    0
+  William Hill Kelly: Jr.    38475    2
+  Jeffrey Mark Dingle:Encompys    0    0
+  Paul Ortiz: Jr.    38475    1
+  Robert John Deraney:financial consultant    82353    0
+  Peter Craig Alderman:salesman    74550    1
+  Caleb Arron Dack:vice president    177350    0
+  Terence John Manning:consultant    88508    0
+  Naomi Leah Solomon:vice president    177350    0
+  Hagay Shefi:founding partner    128351    0
+  Maile Rachel Hale:vice president    177350    0
+  Mary Rubina Sperando:director    129669    0
+  Kenneth William Basnicki:Marketing director    116260    0
+  Garth Erin Feeney:Corporate development director    120144    1
+  Wayne Terrial Davis:Computer programmer    72790    0
+  Rajesh Arjan Mirpuri:vice president    177350    1
+  Stuart Soo-Jin Lee:vice president    177350    1
+  Ariel Louis Jacobs:vice president    177350    0
+  Chantal Vincelli:assistant supervisor    45562    3
+  Joseph Mathai:managing partner    91984    0
+  Peter Edward Mardikian:sales manager    75885    0
+-------:21
+113094
+8
+1
+  Eric Lehrfeld:director    129669    0
+  Catherine C. Gorayeb:Marketing director    116260    0
+  Christopher James Hanley:partner    139243    0
+  Katherine McGarry Noack:senior sales executive    95354    0
+  Takashi Ogawa:consultant    88508    1
+  Andrew Fisher:director    129669    0
+  Stephen Kevin Tompsett:vice president    177350    1
+  Kathleen Anne Faragher:consultant    88508    0
+  David Brian Brady:Financial advisor    75511    1
+  Sanae Mori:consultant    88508    1
+  Robert G. McIlvaine:assistant vice president of media relations    113094    1
+  Mark Evan Schurmeier:director    129669    0
+  Michael Benjamin Packer:managing director    173026    2
+  Anil Tahilram Bharvaney:senior vice president    188080    1
+  Melissa Harrington-Hughes:director    129669    0
+  Linda C. Lee:associate    72940    0
+  Geoffrey Thomas Campbell:consultant    88508    0
+  Vladimir Tomasevic:vice president    177350    0
+  Alexander Braginsky:foreign exchange products manager    108883    0
+  Anthony Richard Dawson:manager    80429    0
+  Scott J. O'Brien:manager    80429    0
+-------:22
+188080
+6
+1
+  Claribel Villalobos Hernandez:administrative assistant    43528    1
+  Scott H. Saber:trader    141084    0
+  David Tirado:computer technician    45262    0
+  Amy Elizabeth Toyen:analyst    74958    0
+  Gabriela Silvina Waisman:manager    80429    1
+  James F. Murphy IV:account manager    71733    0
+  Nicholas John:World Trade Center    34305    0
+  Wade B. Green:Thomson Financial Services    71521    0
+  Brandon Jerome Powell:food service handler    25380    0
+  Anthony Alvarado:security guard    27138    0
+  Antonio Dorsey Pratt:food service handler    25380    0
+  Mark Steven Jardim:senior vice president    188080    1
+  Eddie Wing-Wai Ching:client support administrator    44784    1
+  Jose Ramon Castro:food service handler    25380    0
+  Christopher Martel Morrison:vice president    177350    1
+  Juan Garcia:food service handler    25380    0
+  Andre Colin Cox:food service handler    25380    0
+  Nicholas Charles Alexander Rowe:software engineer    136380    1
+  Lukasz Tomasz Milewski:food service handler    25380    0
+  Tawanna Sherry Griffin:food service handler    25380    0
+  Damion O'Neil Mowatt:food service handler    25380    0
+  Nathaniel Lawson:waiter    30659    0
+-------:23
+25380
+10
+0
+  Kerene Gordon:food service handler    25380    0
+  Sarah Khan:food service handler    25380    0
+  Maxima Jean-Pierre:food service handler    25380    0
+  Israel Pabon: Jr.    38475    0
+  Harvey Robert Hermer:wire person    40093    0
+  Joyce Patricia Smith:food service handler    25380    0
+  Francis John Sadocha:manager    80429    0
+  Pauline Francis:food service handler    25380    0
+  Jeffrey Pike Hardy:executive chef    90932    0
+  Jeffrey James Shaw:firefighter    70439    1
+  Salvatore Fiumefreddo:technician    46093    1
+  Azael Ismael Vasquez:food service handler    25380    0
+  Jose Angel Martinez: Jr.    38475    0
+  Albert Ogletree:food service handler    25380    0
+  Lester V. Marino:electrician    51495    1
+  Joseph M. Romagnolo:software analyst    72913    2
+  Andrew James Knox:project manager    96265    1
+  Maurice P. Kelly:carpenter    50382    0
+  Robert Anthony Vicario:null    33782    0
+  Kenneth Wilburn White: Jr.    38475    2
+  Paul M. Fiori:Cantor Fitzgerald    37502    1
+  Matthew Diaz:carpenter    50382    0
+  Amarnauth Lachhman:carpenter    50382    1
+-------:24
+141084
+30
+1
+  Charles Alan Zion:executive vice president    171985    2
+  Jonathan M. Connors:firefighter    70439    0
+  William Randolph Tieste:vice president    177350    2
+  Erik Hans Isbrandtsen:industrial sales trader    141084    1
+  Valerie Silver Ellis:trader    141084    2
+  Michael Anthony Tanner:broker    95640    1
+  Michael Edward Gould:NASDAQ trader    141084    0
+  Christopher Randall Larrabee:Cantor Fitzgerald    37502    2
+  Frank Garfi:director    129669    1
+  Sean Gordon Corbett O'Neill:trader    141084    1
+  Alvin Bergsohn:assistant trader    141084    1
+  Timothy George Grazioso:trader    141084    4
+  William Ralph Raub:trader    141084    0
+  Patrick Thomas Dwyer:Cantor Fitzgerald    37502    0
+  Daniel Thomas Afflitto:trader    141084    3
+  Alexander Robbins Steinman:trader    141084    3
+  Craig Damian Lilore:institutional stock trader    141084    2
+  John M. Grazioso:salesman    74550    1
+  Vincent M. Litto:vice president    177350    2
+  Mark Hindy:Cantor Fitzgerald    37502    2
+-------:25
+177350
+33
+2
+  Morton H. Frank:Institutional sales desk    75143    2
+  Sean P. Lynch:broker    95640    1
+  Robert Frank Tipaldi:assistant trader    141084    3
+  Paul James Furmato:vice president    177350    1
+  Richard Michael Caggiano:Cantor Fitzgerald    37502    2
+  Thomas Harold Bowden: Jr.    38475    2
+  Fredric Neal Gabler:trader    141084    3
+  Michael Joseph Mullin:trader    141084    1
+  Martin Michael Boryczewski:Cantor Fitzgerald    37502    2
+  Jude Elias Safi:trader    141084    2
+  Steven Gregory Genovese:trader    141084    2
+  Jeff LeVeen:vice president    177350    2
+  Peter Paul Apollo:trader    141084    1
+  James John Woods:Broker assistant    95640    1
+  Brendan Mark Lang:broker    95640    1
+  Stephen Patrick Cherry:partner    139243    1
+  John A. Candela:senior trader    173780    1
+  Joshua S. Vitale:trader    141084    1
+  Michael S. Costello:Cantor Fitzgerald    37502    2
+  Rosanne P. Lang:trader    141084    1
+  Martin Stewart Niederer:trader    141084    0
+  James Martello:trader    141084    1
+-------:26
+72790
+12
+0
+  Joshua M. Rosenblum:trader    141084    2
+  James Leslie Crawford: Jr.    38475    0
+  Robert G. McCarthy:fire safety director    40974    1
+  William J. Meehan: Jr.    38475    0
+  Marc Scott Zeplin:trader    141084    1
+  Jon A. Perconti: Jr.    38475    2
+  Gerald Thomas O'Leary:chef    63719    1
+  Michael Joseph Horn:salesman    74550    0
+  Aleksandr Valeryevich Ivantsov:computer engineer    85357    0
+  Laurence Michael Polatsch:trader    141084    2
+  Diarelia Jovanah Mena:Computer programmer    72790    0
+  Hweidar Jian:analyst    74958    0
+  Bojan George Kostic:trader    141084    0
+  Beth Ann Quigley:trader    141084    1
+  Maria A. Behr:trader    141084    0
+  Robert R. Talhami:broker    95640    0
+  Scott Jeffrey Weingard:trader    141084    1
+  Adele Christine Sessa:trader    141084    0
+  Ryan Kohart:trader    141084    0
+  Brian Thomas Cummins:partner    139243    1
+  Vincent Robert Slavin:trader    141084    0
+-------:27
+141084
+19
+0
+  Swede Joseph Chevalier:trader    141084    2
+  Keith James Burns:trader    141084    0
+  Daniel James Gallagher:Cantor Fitzgerald    37502    1
+  Davin N. Peterson:assistant trader    141084    0
+  Frank J. Koestner:trader    141084    0
+  Edward Mazzella: Jr.    38475    0
+  Mark Francis Broderick:accountant    67081    1
+  Michael Patrick Tucker:trader    141084    2
+  Gregg Reidy:trader    141084    0
+  Michael McCabe:firefighter    70439    2
+  Eric M. Sand:trader    141084    0
+  Craig Michael Blass:trader    141084    0
+  Angel M. Pabon: Jr.    38475    2
+  Keith David McHeffey:trader    141084    1
+  Paul Robert Eckna:Cantor Fitzgerald    37502    1
+  Elvin Romero:Cantor Fitzgerald    37502    4
+  Frank Bennett Reisman:trader    141084    0
+  Joseph Barry Vilardo:trader    141084    1
+  Sean Peter McNulty:trader    141084    1
+  Rocco Nino Gargano:Cantor Fitzgerald    37502    0
+  Peter R. Kellerman:partner    139243    1
+-------:28
+95640
+29
+0
+  Cesar Augusto Murillo:international trader    141084    0
+  Shai Levinhar:Cantor Fitzgerald    37502    2
+  Steven Paul Geller:facilities manager    66767    0
+  Thomas Joseph Shubert:vice president    177350    0
+  David Silver:Marsh & McLennan Cos. Inc.    36028    3
+  Vinod Kumar Parakat:programmer    102269    0
+  Richard Y.C. Lee:managing director    173026    2
+  William Edward Micciulli:vice president    177350    2
+  Pamela Chu:vice president    177350    1
+  Brandon J. Buchanan:trader    141084    0
+  Aaron Jeremy Jacobs:Cantor Fitzgerald    37502    1
+  Douglas D. Ketcham:stock broker    95640    0
+  Joon Koo Kang:computer analyst    94583    1
+  Lloyd Stanford Brown:compliance officer for institutional equities    97310    1
+  Peter James Mulligan:Cantor Fitzgerald    37502    2
+  Charles Francis Xavier Heeran:trader    141084    1
+  Darryl Leron McKinney:clerk    45301    1
+  Montgomery McCullough Hord:vice president    177350    1
+  Monique Effie DeJesus:administrative assistant    43528    2
+  Matthew J. Burke:World Trade Center    34305    3
+  Michael Craig Rothberg:managing director    173026    4
+  Angela Rosario:Broker assistant    95640    2
+-------:29
+141084
+23
+3
+  Dennis James O'Connor: Jr.    38475    0
+  Allan Abraham Shwartzstein:trader    141084    1
+  Matthew T. McDermott:bond broker    95640    3
+  John Wallice: Jr.    38475    0
+  Christopher Paul Slattery:foreign currency trader    141084    3
+  John Pepe Salerno:broker    95640    1
+  Philip William Mastrandrea: Jr.    38475    0
+  Keith E. Coleman:vice president    177350    3
+  Michael Allen Davidson:Cantor Fitzgerald    37502    2
+  Christopher Noble Ingrassia:trader    141084    3
+  Carl Allen B. Peralta:broker    95640    2
+  Scott Thomas Coleman:Cantor Fitzgerald    37502    1
+  Richard N. Poulos:security guard    27138    1
+  Nicholas P. Pietrunti:data entry clerk    35125    1
+  James Francis Quinn:police officer    65899    0
+  Justin McCarthy:trader    141084    0
+  Joseph Daniel Maio:engineering    105205    0
+  James P. Hopper:security guard    27138    1
+  Paul Nimbley:vice president    177350    1
+-------:30
+46093
+0
+0
+  Santos Vazquez:assistant supervisor    45562    0
+  Jason M. Sekzer:vice president    177350    0
+  James Andrew Gadiel:Cantor Fitzgerald    37502    0
+  Margaret Mary Conner:receptionist    34661    0
+  Raul Hernandez:maintenance    32346    0
+  James A. Waring:security officer    29466    0
+  Simon Maddison:contractor    73645    0
+  Gregory Alan Clark:computer technician    45262    0
+  Gary Shamay:computer specialist    78611    0
+  Wilbert Miraille:computer technician    45262    0
+  Joan Cullinan:executive assistant    71902    0
+  Carlos Manuel Morales:technician    46093    0
+  Lawrence Ira Beck:broker    95640    0
+  Anthony Maurice Hawkins:maintenance    32346    0
+  Corey Peter Miller:supply manager    71829    0
+  Nancy Morgenstern:travel agent    49747    0
+  Gavin Cushny:consultant    88508    0
+  Michael Angel Trinidad:accountant    67081    0
+  Dominick J. Berardi:bond broker    95640    0
+  Rubén Solares:mailroom clerk    33655    0
+  Stanley L. Temple:null    33782    0
+  Karen Sue Juday:administrative assistant    43528    0
+  Jeffrey H. Schreier:mailroom clerk    33655    0
+-------:31
+80429
+21
+2
+  Angela Susan Perez:Cantor Fitzgerald    37502    1
+  Vincent Gerard D'Amadeo:vice president    177350    2
+  Charles Waters:research director    161904    0
+  Joseph A. Lafalce:operations    62053    0
+  John T. Gnazzo:vice president    177350    1
+  Robert P. Devitt: Jr.    38475    0
+  Francis Joseph Nazario:operations manager    72116    3
+  Shari Kandell:executive assistant    71902    0
+  Colleen Ann Barkow:project manager    96265    0
+  Joseph John Perroncino:vice president    177350    3
+  Felix Antonio Vale:manager    80429    2
+  Thomas A. Damaskinos:vice president    177350    0
+  Franklyn Monahan:Cantor Fitzgerald    37502    0
+  Betsy Martinez:Cantor Fitzgerald    37502    2
+  Ivan Vale:manager    80429    2
+  Christopher Peter Anthony Racaniello:operations    62053    3
+  Michael Massaroli:vice president    177350    0
+  Laurence Christopher Abel:World Trade Center    34305    0
+  Glenn J. Travers: Sr.    37065    1
+  Laura Angilletta:purchase and sales clerk    40393    1
+  Robert David Peraza:trader    141084    0
+-------:32
+60155
+10
+1
+  Lynne Irene Morris:equities p&s clerk    40116    2
+  John Gerard Monahan:operations supervisor    72368    0
+  Nestor Julio Chevalier: Jr.    38475    0
+  Clement A. Fumando:foreign exchange operations manager    108883    0
+  Joseph Michael Doyle:salesman    74550    2
+  Manika K. Narula:Cantor Fitzgerald    37502    0
+  Jennifer Lynn Mazzotta:Cantor Fitzgerald    37502    1
+  Kevin S. Cohen:eSpeed desktop support person    0    1
+  Khalid M. Shahid:systems administrator    82792    0
+  Joseph Reina: Jr.    38475    1
+  George Paris:Cantor Fitzgerald    37502    0
+  Scott Mitchell Schertzer:Human resources    60155    1
+  Brooke David Rosenbaum:manager    80429    0
+  Angel Perez: Jr.    38475    0
+  Dipti Patel:data systems engineer    97244    0
+  Joshua Michael Piver:trader    141084    1
+  Richard Todd Myhre:operations department    62053    0
+  Raymond Kui Fai Kwok:support technician    56840    0
+  Ronald Lawrence Gilligan:Cantor Fitzgerald    37502    0
+  Anthony Dionisio:vice president    177350    0
+  Eric Thomas Ropiteau:trader    141084    1
+  Eugen Gabriel Lazar:analyst    74958    0
+-------:33
+72790
+13
+0
+  William Christopher Sugra:foreign exchange broker    108883    0
+  Giovanna Galletta Gambale:vice president    177350    0
+  Alexandru Liviu Stan:consultant    88508    1
+  Ganesh K. Ladkat:eSpeed    33104    1
+  Sushil S. Solanki:systems administrator    82792    1
+  Corina Stan:null    33782    1
+  Anil Shivhari Umarkar:Computer programmer    72790    1
+  Kristine M. Swearson:Web page designer    52063    0
+  Jake Denis Jagoda:trader    141084    1
+  Rafael Humberto Santos:null    33782    2
+  Elizabeth C. Logler:employee of eSpeed division    38367    0
+  Michael Edward McHugh: Jr.    38475    1
+  Ssu-Hui Wen:Computer programmer    72790    0
+  Suria Rachel Emma Clarke:vice president    177350    0
+  Alok Kumar Mehta:manager    80429    0
+  Milton G. Bustillo:technical support    67457    1
+  Brian Joseph Cachia:Cantor Fitzgerald    37502    0
+  Rudolph N. Riccio:systems administrator    82792    0
+  Jim Walsh:Computer programmer    72790    0
+  Michelle Renee Bratton:Cantor Fitzgerald    37502    0
+  John Edward Bulaga: Jr.    38475    2
+  Matthew Gilbert Vianna:trader    141084    0
+  Edward J. Martinez:operations manager    72116    1
+-------:34
+82792
+1
+0
+  Shannon Marie Fava:Broker assistant    95640    0
+  Marie Lukas:securities broker    95640    0
+  Troy Edward Nilsen:computer engineer    85357    1
+  Michael Gogliormella:Cantor Fitzgerald    37502    0
+  James Joseph Carson: Jr.    38475    0
+  Susan Elizabeth Pinto:vice president    177350    0
+  Joann C. Tabeek:vice president    177350    0
+  Timothy Stout:quality assurance specialist    79719    0
+  Jorge Luis León: Sr.    37065    0
+  Laura Gilly:technical support    67457    0
+  Suzanne Geraty:systems administrator    82792    0
+  Alfred Anton Vukosa:information systems technician    84560    0
+  Stephen Frank Masi:Cantor Fitzgerald    37502    0
+  Brian Hennessey:Cantor Fitzgerald    37502    0
+  Wayne John Saloman:broker    95640    0
+  Shekhar Kumar:analyst    74958    0
+  Marianne Liquori Simone:communications    39251    0
+  Helen Crossin Kittle and her unborn child:systems administrator    82792    0
+  Whitfield West: Jr.    38475    0
+  Beverly L. Curry:operations manager    72116    0
+  Gary H. Lee:vice president    177350    0
+-------:35
+177350
+13
+1
+  Paul Innella:analyst    74958    0
+  Michael Edward Asher:Cantor Fitzgerald    37502    0
+  Marcello Matricciano:Cantor Fitzgerald    37502    0
+  Paul DeCola:customer service    31432    0
+  Marcia Hoffman:Cantor Fitzgerald    37502    1
+  Abul K. Chowdhury:systems administrator    82792    1
+  Edward Lichtschein:software designer    93645    0
+  Alok Agarwal:Cantor Fitzgerald    37502    0
+  Michael L. Collins:Cantor Fitzgerald    37502    0
+  Sheldon Robert Kanter:vice president    177350    1
+  Martin Lizzul:executive    95723    0
+  Nicholas Craig Lassman:vice president    177350    1
+  Anthony Joseph Coladonato:vice president    177350    1
+  Zuhtu Ibis:Cantor Fitzgerald    37502    0
+  Kimberly S. Bowers:administrative assistant    43528    1
+  Maria Theresa Concepcion Santillan:customer service    31432    1
+  Paul Vincent Barbaro:strategic development and software engineer    133213    1
+  Albert Alfy William Elmarry:computer technician    45262    0
+  Harry A. Raines:vice president    177350    1
+  Joseph M. Giaccone:head of telecommunications    84136    2
+  Jim Sands: Jr.    38475    1
+  Weibin Wang:analyst    74958    0
+  Judy Hazel Santillan Fernandez:benefits specialist    57406    1
+-------:36
+94583
+6
+0
+  Seamus L. O'Neal:Computer programmer    72790    0
+  Jayesh Shantilal Shah:vice president    177350    0
+  Anthony Perez:technical specialist    89024    0
+  William Arthur Gardner:Cantor Fitzgerald    37502    0
+  Lee Adler:Computer designer    67317    0
+  Sandra Patricia Campbell:Computer programmer    72790    0
+  William Lawrence Fallon: Jr.    38475    0
+  Stephen Bruce Bunin:systems administrator    82792    0
+  Grace Catherine Galante:Broker assistant    95640    1
+  Brian G. Warner:Thomson Financial Services    71521    0
+  Kaaria Mbaya:computer analyst    94583    0
+  Joanne Mary Cregan:Cantor Fitzgerald    37502    0
+  Deanna Lynn Galante and her unborn child:Securities analyst    74958    2
+  Joanne Marie Ahladiotis:Cantor Fitzgerald    37502    0
+  W. David Bauer:head of global sales for eSpeed    136533    0
+  Hashmukh C. Parmar:computer systems manager    104602    1
+  Frances Ann Cilente:administrative assistant    43528    0
+  Paul Acquaviva:eSpeed vice president of corporate development    0    0
+  Yudhvir S. Jain:Cantor Fitzgerald    37502    1
+  Debbie S. Bellows:Cantor Fitzgerald    37502    1
+-------:37
+37502
+28
+4
+  Jeffrey G. Goldflam:Cantor Fitzgerald    37502    1
+  Glenn Davis Kirwin:manager    80429    4
+  Frederick T. Varacchi:CEO    263333    3
+  Andrew K. Kates:trader    141084    1
+  Gary Frederick Lutnick:Cantor Fitzgerald    37502    4
+  Douglas Benjamin Gardner:chairman    103501    4
+  Jonathan J. Uman:managing director    173026    1
+  Joseph Patrick Shea:vice president    177350    6
+  Daniel James Shea:partner    139243    4
+-------:38
+139243
+39
+4
+  Calvin Joseph Gooding:trader    141084    2
+  Amy O'Doherty:Broker assistant    95640    3
+  Gregory David Richards:vice president    177350    3
+  John Thomas McErlean: Jr.    38475    3
+  Allen V. Upton:vice president    177350    1
+  James Patrick White:broker    95640    2
+  Robert L. Horohoe: Jr.    38475    1
+  Douglas Brian Gurian:Radianz    38805    1
+  Matthew Blake Wallens:senior vice president    188080    1
+  Thomas E. Galvin:vice president    177350    2
+  Donald F. Spampinato: Jr.    38475    3
+  Frederick Joseph Hoffmann:partner    139243    4
+  Donald Arthur Robson:retired president    110383    0
+  John A. Katsimatides:broker    95640    3
+  David R. Leistman:bond trader and partner    141084    1
+  Frank Thomas Aquilino:Cantor Fitzgerald    37502    2
+  Steve Pollicino:vice president    177350    3
+  John Francis Swaine:food service handler    25380    2
+  Peter A. Siracuse:broker    95640    0
+  Michele L. Hoffmann:Cantor Fitzgerald    37502    2
+  Donald H. Gregory:bond broker    95640    0
+  Robert Levine:Cantor Fitzgerald    37502    0
+-------:39
+177350
+31
+0
+  John Armand Reo:flight attendant    36262    1
+  Michael Morgan Taylor:broker    95640    0
+  Thomas Strada:vice president    177350    3
+  Billy Scoop Esposito:partner    139243    3
+  Peter Teague Milano:Cantor Fitzgerald    37502    3
+  Lloyd Daniel Rosenberg:broker    95640    1
+  Thomas Joseph Cahill:trader    141084    2
+  Kevin M. McCarthy:trader    141084    0
+  John Patrick Salamone:broker    95640    3
+  Patrick Sullivan:trader    141084    1
+  Danielle Kousoulis:vice president    177350    0
+  Neil Matthew Dollard:bond broker    95640    2
+  John Burkhart Schwartz:broker    95640    1
+  James Gregory Smith:null    33782    3
+  Andrew Ira Rosenblum:vice president    177350    2
+  Joseph A. Della Pietra:Cantor Fitzgerald    37502    0
+  Jason Christopher DeFazio:bond broker    95640    1
+  Edward L. Allegretto:convertible bonds broker    95640    2
+  Carl M. Flickinger:bond broker    95640    1
+  Dennis Michael Cook:trader    141084    1
+  James Patrick Ladley:partner and corporate bond broker    95640    1
+-------:40
+95640
+6
+0
+  Vincent A. Cangelosi:bond broker    95640    1
+  Bernard Pietronico:bond broker    95640    1
+  Michael Cameron Lynch:broker    95640    0
+  Timothy D. Betterly:trader    141084    0
+  John M. Pocher:bond broker    95640    0
+  Joseph Ryan Allen:bond broker    95640    0
+  Joseph Plumitallo:Cantor Fitzgerald    37502    1
+  David Robert Meyer:trader    141084    1
+  Richard H. Stewart: Jr.    38475    0
+  James Joseph Suozzo:broker    95640    0
+  Laurence Damian Curia:broker    95640    0
+  Christopher D. Jones:partner    139243    0
+  Alfred J. Braca:bond broker    95640    1
+  Peter Victor Genco: Jr.    38475    0
+  Edwin J. Graf III:vice president    177350    0
+  Bruce Douglas Boehm:broker    95640    0
+  Brooke Alexandra Jackman:trader    141084    0
+  Edward Thomas Fergus: Jr.    38475    0
+  John B. Fiorito:broker    95640    0
+  Thierry Saada:trader    141084    0
+  Brian Patrick Williams:trader    141084    1
+-------:41
+173026
+38
+5
+  Ann N. Nelson:benefits specialist    57406    1
+  Jeannine Damiani-Jones:bond broker    95640    1
+  Joshua Todd Aron:Cantor Fitzgerald    37502    1
+  Robert Thomas Jordan:trader    141084    3
+  Aaron Horwitz:broker    95640    6
+  Joshua David Birnbaum:trader    141084    2
+  William E. Spitz:Marsh & McLennan Cos. Inc.    36028    3
+  Stephen Gerard Hoffman:bond broker    95640    1
+  Donald Richard Gavagan: Jr.    38475    3
+  Thomas Pedicini:institutional equities department    36188    2
+  Stephen J. Colaio:managing director    173026    5
+  Bernard D. Favuzza:broker    95640    0
+  Scott Walter Cahill:bond broker    95640    1
+  Carlos Alberto Samaniego:AA Flight 11    0    0
+  Christopher E. Lunder:broker    95640    3
+  Mark Joseph Colaio:managing director    173026    4
+  David Michael Barkway:managing director    173026    0
+  Christopher E. Allingham:bond broker    95640    1
+  Peter J. Owens: Jr.    38475    0
+  Anthony Starita:trader    141084    0
+  Craig Montano:broker    95640    1
+-------:42
+37502
+32
+1
+  Andrew J. Stern:director    129669    2
+  Luke G. Nee:operations manager    72116    0
+  Donald T. Jones II:Cantor Fitzgerald    37502    0
+  Michael J. Armstrong:Cantor Fitzgerald    37502    0
+  Dennis Buckley:firefighter    70439    1
+  Daniel Patrick Trant:trader    141084    0
+  Karl T. Smith: Sr.    37065    2
+  Peter M. West:broker    95640    3
+  Joseph John Coppo: Jr.    38475    3
+  Frederick H. Kelley III:Municipal Bond Trader    141084    0
+  Stephen J. Cangialosi:trader    141084    2
+  Michael P. O'Brien:broker    95640    0
+  Timothy Colin Kelly:Cantor Fitzgerald    37502    1
+  Glenn Thompson:trader    141084    3
+  Jason David Cayne:Municipal Bond Trader    141084    0
+  Louis V. Fersini: Jr.    38475    3
+  Leo Arthur Roberts:firefighter    70439    3
+  Bernard E. Patterson:Cantor Fitzgerald    37502    3
+  Matthew Picerno:bond broker    95640    3
+  Ivan Kyrillos Fairbanks-Barbosa:Cantor Fitzgerald    37502    0
+  John Damien Vaccacio:broker    95640    0
+  Joseph C. Zaccoli:firefighter    70439    0
+  Jane Ellen Baeszler:broker    95640    0
+  Dominick E. Calia:bond broker    95640    3
+-------:43
+95640
+11
+0
+  Anne Marie Sallerin Ferreira:Cantor Fitzgerald    37502    0
+  Timothy Robert Hughes:trader    141084    1
+  Christopher Hugh Forsythe:foreign exchange broker    108883    0
+  Raymond James Rocha:broker    95640    0
+  Atsushi Shiratori:trader    141084    0
+  Vincent Michael Wells:broker    95640    0
+  Charles Lawrence Chan:currency broker    95640    1
+  Todd Joseph Ouida:options broker    95640    1
+  Leonard M. Castrianno:broker    95640    0
+  Sean Schielke:trader    141084    0
+  Kevin Dennis:Cantor Fitzgerald    37502    0
+  Frank Spinelli:broker    95640    0
+  Roy Michael Wallace:broker    95640    0
+  Timothy Patrick Soulas:director    129669    4
+  Scott William Rohner:firefighter    70439    0
+  Christopher S. Gray:foreign exchange broker    108883    0
+  Robin Blair Larkey:currency broker    95640    0
+  Nigel Bruce Thompson:broker    95640    2
+  Nestor Andre Cintron III:broker    95640    2
+  Andrew M. King:trader    141084    0
+  Joseph Francis Sacerdote:vice president    177350    0
+  Christian H. Maltby:vice president    177350    0
+-------:44
+95640
+24
+4
+  William P. Tselepis: Jr.    38475    2
+  Michael Bradley Finnegan:currency broker    95640    2
+  Andrew Stergiopoulos:product development    96616    2
+  Jack L. D'Ambrosi: Jr.    38475    0
+  Christopher Matthew Panatier:foreign currency trader    141084    1
+  Ralph Gerhardt:vice president    177350    1
+  Andrew Clive Gilbert:Cantor Fitzgerald    37502    2
+  John Joseph Murray:Industrial Bank of Japan    34708    3
+  Karen Joyce Klitzman:analyst    74958    0
+  Robert Andrew Spencer:broker    95640    4
+  Linda Anne Luzzicone:trader    141084    1
+  Brian Christopher Novotny:Cantor Fitzgerald    37502    2
+  Timothy Paul Gilbert:Cantor Fitzgerald    37502    2
+  Brian Nunez:auditor    83903    0
+  Donald Walter Robertson: Jr.    38475    1
+  Frank Joseph Naples III:broker    95640    0
+  Joseph P. McDonald:broker    95640    0
+  Jeremy Caz Carrington:swaps trader    141084    0
+  Christopher Todd Pitman:Cantor Fitzgerald    37502    1
+-------:45
+70439
+20
+2
+  Robert E. Parks: Jr.    38475    0
+  Andrew H. Golkin:vice president    177350    1
+  Gopalakrishnan Varadhan:managing director    173026    0
+  Joseph Dermot Dickey: Jr.    38475    2
+  Neil Robin Wright:broker    95640    0
+  Martin Michael Wortley:broker    95640    0
+  Matthew Carmen Sellitto:trader    141084    0
+  William John Erwin:broker    95640    3
+  Carlton Francis Valvo II:trader    141084    1
+  Michael H. Seaman:firefighter    70439    2
+  Kenneth Joseph Tarantino:firefighter    70439    2
+  John Paul Bocchi:managing director    173026    0
+  Christopher Michael Grady:Cantor Fitzgerald    37502    2
+  Robert Douglas Eaton:broker    95640    1
+  Frederic K. Han:partner    139243    4
+  Arlene Eva Fried:vice president    177350    0
+  Matthew G. Leonard:attorney    94793    0
+  Eric Adam Stahlman:trader    141084    1
+  Scott Jeffrey Weingard:trader    141084    0
+  James R. Ostrowski:Cantor Fitzgerald    37502    1
+  Chet Dek Louie:analyst    74958    0
+-------:46
+95723
+2
+0
+  Robert Francis Mace:attorney    94793    0
+  Stephen Mark Fogel:Cantor Fitzgerald    37502    0
+  Geoffrey W. Cloud:lawyer    100859    0
+  Jacquelyn Patrice Sanchez:executive assistant    71902    0
+  Anna M. DeBin:administrative assistant    43528    0
+  David Scott Agnes:Cantor Fitzgerald    37502    0
+  Fanny Espinoza:compliance officer for institutional equities    97310    0
+  Dennis Gerard Moroney:vice president    177350    0
+  Jody Tepedino Nichilo:executive assistant    71902    0
+  Lourdes J. Galletti:executive assistant    71902    0
+  Stewart D. Harris:executive    95723    0
+  Robert Michael Murach:vice president    177350    0
+  Brian John Terrenzi:manager    80429    0
+  Adam Keith Ruhalter:controller    107468    1
+  Elizabeth Ann Farmer:contractor    73645    0
+  Alysia Christine Burton Basmajian:accountant    67081    0
+  Sheryl Lynn Rosenbaum:accountant    67081    0
+  Azucena Maria de la Torre:Cantor Fitzgerald    37502    0
+  Jeffrey Alan Hersch:accountant    67081    1
+  Aram Iskenderian: Jr.    38475    0
+-------:47
+37502
+24
+3
+  Vladimir Savinkin:Cantor Fitzgerald    37502    3
+  Marina Romanovna Gertsberg:manager    80429    5
+  Michelle Lee Titolo:controller    107468    0
+  Gregory E. Rodriguez:assistant vice president    112038    1
+  Alexander Lygin:programmer    102269    3
+  Kenneth J. Swenson:vice president    177350    1
+  Albert Balewa Blackman: Jr.    38475    0
+  Frank J. Vignola: Jr.    38475    2
+  Guy Barzvi:Cantor Fitzgerald    37502    2
+  Richard David Rosenthal:vice president    177350    0
+  Inna B. Basina:Cantor Fitzgerald    37502    3
+  Delrose E. Forbes Cheatham:Cantor Fitzgerald    37502    0
+  Monica Goldstein:Cantor Fitzgerald    37502    1
+  Everett Martin Proctor III:trader    141084    0
+  Jason Douglas Oswald:bond broker    95640    0
+  Daniel Ilkanayev:Cantor Fitzgerald    37502    1
+  Adriane Victoria Scibetta:accountant    67081    1
+  Renee Barrett-Arjune:analyst    74958    0
+  Claudia Suzette Sutton:accountant    67081    0
+  Stephen Gordon Ward:accountant    67081    0
+  Ronald Magnuson:consultant    88508    1
+-------:48
+37502
+19
+1
+  Edward P. York:broker    95640    0
+  Shannon Lewis Adams:Fixed income accountant    67081    0
+  Michele Ann Nelson:benefits specialist    57406    0
+  John Robert Cruz:Cantor Fitzgerald    37502    0
+  Shawn Edward Bowman: Jr.    38475    0
+  Douglas Frank DiStefano:Cantor Fitzgerald    37502    1
+  John Patrick Gallagher:trader    141084    2
+  Lisa Erin Egan:Human resources    60155    1
+  Christina Sunga Ryook:Human resources    60155    0
+  Lesley Anne Thomas:broker    95640    2
+  Samantha Martin Egan:Cantor Fitzgerald    37502    1
+  Marisa Dinardo Schorpp:trader    141084    1
+  Michael Louis DiAgostino:broker    95640    2
+  Bella J. Bhukhan:analyst    74958    0
+  Robert Wayne Hobson III:broker    95640    2
+  Bart Joseph Ruggiere:trader    141084    1
+  Robert Walter Noonan:trader    141084    1
+  Christopher W. Wodenshek:partner    139243    1
+  Michael J. Simon:trader    141084    1
+  Mike Adrian Pelletier:Commodities broker    95640    1
+  W. Ward Haynes:broker    95640    2
+-------:49
+177350
+7
+0
+  Edward Francis Maloney III:account manager    71733    0
+  Mark Y. Gilles:World Trade Center    34305    0
+  Stuart Todd Meltzer:broker    95640    0
+  Steven Ian Goldstein:computer analyst    94583    0
+  Thomas Anderson Hobbs:energy trader    141084    0
+  Kevin James Hannaford Sr.:broker    95640    0
+  Steven Elliot Furman:broker    95640    0
+  Paul A. Skrzypek:broker    95640    0
+  Ralph Joseph Mercurio:bond broker    95640    1
+  Edward Charles Murphy:managing director    173026    0
+  Edward J. Perrotta:vice president    177350    0
+  Norbert P. Szurkowski:construction worker    93216    0
+  Jude Joseph Moussa:trader    141084    1
+  Stacey Lynn Peak:stock broker    95640    0
+  Carlton W. Bartels:broker    95640    2
+  Joseph Anthony Eacobacci:Cantor Fitzgerald    37502    0
+  Anthony Edward Gallagher:energy broker    95640    1
+  John Charles Willett:trader    141084    1
+  Thomas Patrick Knox:Cantor Fitzgerald    37502    0
+  Adam S. White:trader    141084    1
+-------:50
+141084
+18
+1
+  James A. Haran:Cantor Fitzgerald    37502    0
+  Joseph R. Riverso:broker    95640    0
+  Paul Hamilton Geier:broker    95640    0
+  Terence D. Gazzani:worked on repo desk    0    0
+  William J. Martin: Jr.    38475    0
+  Alan N. Palumbo:broker    95640    0
+  Richard Joseph Cudina:bond broker    95640    0
+  James V. DeBlase: Jr.    38475    0
+  Anthony J. Fallone: Jr.    38475    1
+  Thomas A. Mahon:energy trader    141084    0
+  Michael A. Marti:trader    141084    1
+  Steven Francis Schlag:partner    139243    2
+  Pedro Grehan:World Trade Center    34305    1
+  Francis Noel McGuinn:managing director    173026    4
+  Luis Eduardo Torres:broker    95640    1
+  Joshua Scott Reiss:trader    141084    1
+  James Matthew Patrick:bond broker    95640    2
+  Steven Bennett Paterson:Cantor Fitzgerald    37502    1
+  Joseph A. Kelly:broker    95640    1
+  Antonio A. Rocha:broker    95640    1
+  Gino Luigi Calvi:broker    95640    2
+-------:51
+67081
+28
+1
+  Robert C. McLaughlin: Jr.    38475    1
+  Andrew Alameno:trader    141084    2
+  Jonathan Neff Cappello:Cantor Fitzgerald    37502    1
+  Robert Louis Scandole:vice president    177350    0
+  Timothy J. Finnerty:broker    95640    2
+  John J. Badagliacca:salesman    74550    2
+  Saranya Srinuan:trader    141084    0
+  James J. Straine: Jr.    38475    2
+  John F. Iskyan:financial analyst    86293    1
+  Paul Edward Jeffers:partner    139243    3
+  Alan Harvey Merdinger:accountant    67081    1
+  Michael R. Wittenstein:firefighter    70439    0
+  John Christopher Henwood:broker    95640    1
+  Alan David Kleinberg:firefighter    70439    2
+  Ian Schneider:senior managing director    169362    3
+  Kenneth W. Van Auken:broker    95640    2
+  Steven Harris Russin:partner    139243    2
+  John Francis Casazza:Cantor Fitzgerald    37502    3
+  Juan Pablo Cisneros:trader    141084    0
+  Michel P. Colbert:Cantor Fitzgerald    37502    0
+-------:52
+177350
+29
+5
+  Stephen Patrick Dimino:partner    139243    2
+  Louis Anthony Caporicci:vice president    177350    1
+  Lorraine Antigua:securities lending department    34510    0
+  Frank Paul Wisniewski:vice president    177350    1
+  Marc A. Murolo:vice president    177350    0
+  Joseph Albert Corbett:trader    141084    2
+  Michael P. Lunden:vice president    177350    1
+  Michael DeRienzo:broker    95640    2
+  Patrick Joseph Buhse:research director    161904    2
+  Michael Patrick LaForte:vice president    177350    5
+  Wendy Alice Rosario Wakeford:Broker assistant    95640    1
+  Michael Rourke Andrews:Cantor Fitzgerald    37502    1
+  John Gerard Farrell:Cantor Fitzgerald    37502    2
+  Edward DeSimone III:vice president    177350    3
+  Christopher Michael Colasanti:trader    141084    2
+  Robert John Shay: Jr.    38475    0
+  Edward A. Brennan III:Cantor Fitzgerald    37502    1
+  Gregory M. Preziose:trader    141084    3
+  Anthony Tempesta:Aon Corp.    0    0
+-------:53
+139243
+35
+2
+  Alfred Russell Maler:broker    95640    0
+  James Thomas Murphy:trader    141084    0
+  Kaleen Elizabeth Pezzuti:bond broker    95640    2
+  Christopher Edward Faughnan:trader    141084    1
+  Mary Jo Kimelman:volume control clerk    31819    0
+  Thomas Daniel Burke:partner    139243    2
+  Todd Douglas Pelino:Cantor Fitzgerald    37502    2
+  Christopher Sean Caton:bond broker    95640    2
+  Matthew James Grzymalski:bond broker    95640    4
+  Thomas Palazzo:trader    141084    2
+  Dennis Michael Edwards:partner    139243    2
+  Edward Joseph Papa:Cantor Fitzgerald    37502    3
+  Scott Jordan Hazelcorn:trader    141084    3
+  George William Morell:vice president    177350    2
+  Richard A. Palazzolo:mortgage security broker    129040    1
+  Timothy J. Coughlin:managing director    173026    2
+  Stephen Louis Roach:vice president    177350    2
+  Seth Allan Morris:managing director    173026    4
+  Wendy L. Small:clerk    45301    0
+  William George Minardi:broker    95640    1
+-------:54
+96265
+10
+0
+  Danny Pesce:ticket desk manager    65463    0
+  James P. O'Brien: Jr.    38475    0
+  Steven Michael Hagis:vice president    177350    0
+  Thomas E. Sinton III:vice president    177350    0
+  Steven F. Strobert:broker    95640    0
+  Vincent Francis DiFazio:Cantor Fitzgerald    37502    0
+  Michael Matthew Miller:trader    141084    1
+  Catherine Lisa Loguidice:trader    141084    1
+  Donald W. Jones:bond broker    95640    1
+  Thomas Dowd:bond broker    95640    1
+  Edward Hobbs Luckett II:project manager    96265    0
+  Brian Joseph Murphy:electronic bond trading coordinator    0    1
+  Joseph John Hasson III:battalion commander    42479    1
+  Frank H. Brennan:vice president    177350    2
+  T.J. Hargrave:vice president    177350    1
+  Bryan Craig Bennett:Cantor Fitzgerald    37502    0
+  Catherine Ellen Chirls:banker    47964    0
+  Edward W. Schunk:broker    95640    1
+  Thomas Barnes Reinig:firefighter    70439    0
+  Donald LaRoy Adams:vice president    177350    0
+  James G. Geyer:bond broker    95640    0
+-------:55
+95640
+15
+1
+  Todd Antione Isaac:partner    139243    0
+  Daniel W. Song:vice president    177350    0
+  Steven Barry Lillianthal:bond broker    95640    0
+  David Francis Ferrugio:Cantor Fitzgerald    37502    0
+  Peter Gerard Gelinas:partner    139243    0
+  Stephen LaMantia:Cantor Fitzgerald    37502    1
+  Walter Philip Travers:broker    95640    1
+  Thomas Francis Dennis: Sr.    37065    0
+  Ronald Orsini:broker    95640    0
+  William H. Bernstein:broker    95640    0
+  Charles Anthony Murphy:broker    95640    1
+  Claudia Alicia Foster:Broker assistant    95640    0
+  John Michael Sbarbaro:trader    141084    1
+  Robert F. Sliwak:broker    95640    1
+  Paul F. Sarle:broker    95640    0
+  Jason Michael Cefalu:Cantor Fitzgerald    37502    2
+  Stephen Edward Tighe:trader    141084    1
+  James Joseph Kelly:bond broker    95640    3
+  Thomas M. McHale:broker    95640    2
+  Michael A. Uliano:firefighter    70439    2
+-------:56
+188080
+23
+3
+  Eamon J. McEneaney:vice president    177350    4
+  Timothy Michael O'Brien:partner    139243    4
+  Vincent Paul Abate:trader    141084    2
+  Matthew Timothy O'Mahony:trader    141084    3
+  Glen Wall:senior vice president    188080    3
+  Andrew Anthony Abate:trader    141084    2
+  Farrell Peter Lynch:trader    141084    4
+  Sean Patrick Lynch:vice president    177350    1
+-------:57
+34661
+14
+1
+  Kenneth Alan Simon:trader    141084    1
+  Andre Bonheur: Jr.    38475    0
+  Francisco Alberto Liriano:executive assistant    71902    0
+  John Difato:securities controller    108268    2
+  Jemal Legesse DeSantis:World Trade Center    34305    0
+  Lisa Bella Cannava:supervisor    49239    2
+  Arthur Simon:trader    141084    1
+  Neil G. Shastri:consultant    88508    0
+  Dolores Marie Costa:vice president    177350    1
+  Nickie L. Lindo:World Trade Center    34305    0
+  Daniela Rosalia Notaro:receptionist    34661    1
+  Bradley V. Hoorn:research associate    80702    1
+  Richard Edward Bosco:banker    47964    0
+  Dorothy J. Chiarchiaro:Fred Alger Management    80429    1
+  Arturo Angelo Sereno:technician    46093    0
+  Terence Edward Adderley: Jr.    38475    1
+  Robert L. Cruikshank:vice president    177350    0
+  Janice Marie Ashley:research associate    80702    2
+  Jennifer Lynn Tzemis:flight attendant    36262    1
+  Lukas Rambousek:computer technician    45262    0
+  Pamela Boyce:vice president    177350    0
+-------:58
+177350
+11
+0
+  Catherine Fairfax MacRae:stock analyst    32939    3
+  Michael Andrew Boccardi:vice president    177350    0
+  Cindy Ann Deuel:executive assistant    71902    0
+  David D. Alger:executive vice president and chief financial officer    163673    2
+  Harold Lizcano:accountant    67081    0
+  Linda Mary Oliva:executive assistant to the president of the New York office    83755    0
+  Tyler Victor Ugolyn:research associate    80702    1
+  Peter Frank Raimondi:vice president    177350    0
+  Sara Elizabeth Manley:vice president    177350    1
+  Barbara G. Etzold:teacher    56152    0
+  Andrew Keith Friedman:vice president    177350    0
+  Peter Christopher Frank:financial analyst    86293    0
+  Yvette Nicole Moreno:receptionist    34661    0
+  John T. Schroeder:trader    141084    0
+  Michael Andrew Tamuccio:Cantor Fitzgerald    37502    0
+  George Patrick McLaughlin: Jr.    38475    2
+  Elizabeth Martin Gregg:vice president    177350    0
+  Avnish Ramanbhai Patel:research analyst    70533    0
+  Arthur Joseph Jones III:broker    95640    2
+  SeiLai Khoo:Fred Alger Management    80429    0
+-------:59
+37502
+2
+0
+  James Kenneth Samuel: Jr.    38475    1
+  Meredith Lynn Whalen:research associate    80702    0
+  Johanna Sigmund:investor liason    47804    0
+  George Merkouris:broker    95640    1
+  Christopher Ciafardini:global risk services    39970    0
+  Andrew Jay-Hoon Kim:financial analyst    86293    0
+  Myrna Yaskulka:secretary    56335    0
+  Mark Ryan McGinly:futures trader    141084    0
+  Michael Desmond McCarthy:trader    141084    0
+  Tu-Anh Pham:Fred Alger Management    80429    0
+  Michael C. Howell:Cantor Fitzgerald    37502    0
+  Sean Bernard Fegan:broker    95640    0
+  Dianne T. Signer and her unborn child:administrative assistant    43528    0
+  Robert William O'Shea:trader    141084    0
+  James Robert Paul:vice president    177350    0
+  Ronald Tartaro:vice president    177350    0
+  Gregory Kamal Bruno Wachtler:research associate    80702    0
+  Christopher More Dincuff:trader    141084    0
+  Ginger Risco Nelson:senior vice president    188080    0
+  Evan Jay Baron:receptionist    34661    0
+  Jerry DeVito:driver    38491    0
+-------:60
+141084
+26
+5
+  Elkin Yuen:broker    95640    0
+  Edward R. Pykon:senior vice president    188080    0
+  Bonnie Shihadeh Smithwick:null    33782    0
+  Yelena Belilovsky:Fred Alger Management    80429    0
+  Mark James Petrocelli:Commodities broker    95640    0
+  David William Nelson:vice president    177350    0
+  Michael R. Canty:broker    95640    2
+  Joseph F. Holland:Windows on the World    37968    3
+  Patrick J. O'Shea:vice president    177350    0
+  Edward K. Oliver:broker    95640    0
+  Joseph P. Kellett:trader    141084    3
+  Brendan Dolan:broker    95640    5
+  Damian Meehan:trader    141084    5
+  Thomas Henry McGinnis:broker    95640    0
+  James Joseph McAlary: Jr.    38475    1
+  Alison Marie Wildman:trader    141084    1
+  Edward Ryan:vice president    177350    2
+  Andrea Lyn Haberman:broker    95640    1
+  Michael James Stewart:banker    47964    0
+  Diane Theresa Lipari:trader    141084    1
+  Adriana Legro:broker    95640    2
+  Cono E. Gallo:Carr Futures    0    0
+  Debra M. Mannetta:broker    95640    0
+-------:61
+141084
+12
+1
+  H. Joseph Heller: Jr.    38475    0
+  Marco Motroni:broker    95640    0
+  John Thomas Resta:vice president    177350    1
+  Christopher James Vialonga:vice president    177350    0
+  Jon Charles Vandevander:trader    141084    1
+  Robert R. Hussa:vice president    177350    1
+  James Arthur Greenleaf: Jr.    38475    0
+  Sylvia San Pio Resta and her unborn child:trader    141084    1
+  Karen Susan Navarro:assistant on the foreign exchange trading desk    0    1
+  Taimour Firaz Khan:trader    141084    0
+  Jeffrey Roger Nussbaum:trader    141084    1
+  Robert Alan Zampieri:trader    141084    0
+  Paul Richard Salvio:trader    141084    1
+  Jose Manuel Cardona:clerk    45301    1
+  Scott Charles Timmes:clerk    45301    1
+  Conrod Kofi Cottoy: Sr.    37065    0
+  Emilio Pete Ortiz:trader    141084    1
+  Andrew La Corte:trader    141084    0
+  Daniel Lopez:security officer    29466    2
+  Boyie Mohammed:broker    95640    0
+-------:62
+141084
+14
+1
+  George A. Llanes:clerk    45301    0
+  Lonny Jay Stone:operations manager    72116    1
+  Christopher Michael Traina:trader    141084    1
+  Adel Agayby Zakhary:accountant    67081    0
+  Valsa Raju:manager    80429    0
+  Denise Marie Gregory:broker    95640    0
+  Kazuhiro Anai:deputy manager    89994    1
+  Victor Wald:stock broker    95640    1
+  Walter A. Matuza: Jr.    38475    0
+  Marcia G. Cecil-Carter:Carr Futures    0    0
+  Takuya Nakamura:section chief    83579    1
+  Michael A. Asciak:Carr Futures    0    0
+  Harry Ramos:trader    141084    1
+  Michael Richards:Aon Corp.    0    0
+  Charles W. Magee:engineer    105205    1
+  Robert E. Pattison:broadcast engineer    113822    1
+  John Michael Griffin:Silverstein Properties    0    2
+  John Sylvester White:actor    39967    0
+  Isaias Rivera:technician    46093    2
+  Vito Joseph DeLeo:engineering    105205    1
+  Gerard J. Coppola:broadcast engineer    113822    1
+  John P. O'Neill:security manager    92748    0
+  Fabian Soto:window washer    40500    0
+  Joseph Piskadlo:structural carpenter    50382    0
+-------:63
+0
+0
+0
+  Leon Lebor:janitorial    31890    0
+  David J. Williams:Marsh USA    39932    0
+  Vanavah Alexei Thompson:janitorial    31890    0
+  Manuel De Jesus Molina:janitorial    31890    0
+  Vishnoo Ramsaroop:elevator operator    29090    0
+  Angelo Amaranto:janitorial    31890    0
+  James Audiffred:elevator operator    29090    0
+  Sonia Ortiz:janitorial    31890    0
+  Simon Marash Dedvukaj:Janitorial    31890    0
+  Keith A. Broomfield:technician    46093    0
+  Gye Hyong Park:sales support associate    52170    0
+  Anthony Segarra:Aon Corp.    0    0
+  Abraham Nethanel Ilowitz:financial services representative    69732    0
+  Donald Joseph DiFranco:broadcast engineer    113822    0
+  Ann Marie Riccoboni:supervisor    49239    0
+  Valerie Victoria Murray:secretary    56335    0
+  James M. Gartenberg:Associate Director    96581    0
+  Charles Gregory Costello: Jr.    38475    0
+  Cynthia Giugliano:technical specialist    89024    0
+  Elvira Granitto:Empire Blue Cross    36767    0
+  Patricia Ann Puma:administrative assistant    43528    0
+  Angela Susan Scheinberg:Cantor Fitzgerald    37502    0
+-------:64
+88508
+6
+1
+  Ramon B. Grijalvo:Empire Blue Cross Blue Shield    35547    0
+  Vivian Casalduc:microfiche clerk    45301    0
+  Abraham J. Zelmanowitz:Computer programmer    72790    1
+  Ayleen J. Santiago:consultant    88508    0
+  Jérôme Robert Lohez:software architect    164456    0
+  Edward Frank Beyea:Computer programmer    72790    1
+  Winston Arthur Grant:Empire Blue Cross Blue Shield    35547    0
+  Alexander Ortiz:programmer    102269    0
+  Laura A. Marchese:executive assistant    71902    0
+  Larry John Senko:vice president    177350    1
+  Eric L. Bennett:vice president    177350    0
+  Melissa Renée Vincent:consultant    88508    1
+  Kenneth Marcus Caldwell:senior manager    132722    1
+  Roland Pacheco:systems administrator    82792    1
+  Mark Stephen Carney:recruiter    62839    0
+  Mary S. Jones:mailroom clerk    33655    0
+  Ezra Aviles:manager    80429    0
+  Simon Weiser:engineer    105205    0
+  Felicia Yvette Traylor-Bass:consultant    88508    0
+  William F. Fallon:Cantor Fitzgerald    37502    0
+  Neil David Levin:executive director    106372    0
+  Seline Sutter:null    33782    0
+  Nancy Muñiz:office worker    32266    0
+-------:65
+100859
+12
+0
+  Niurka Davila:systems administrator    82792    0
+  Louie Anthony Williams:null    33782    0
+  Barry H. Glick:Port Authority of New York and New Jersey    37425    2
+  Deborah H. Kaplan:engineer    105205    0
+  Joseph F. Grillo:risk finance analyst    90769    1
+  John Roger Fisher:security consultant    95147    0
+  Jean Ann Andrucki:risk assessment    32785    1
+  Margaret Susan Lewis:secretary    56335    0
+  Nancy E. Perez:Port Authority of New York and New Jersey    37425    0
+  Susan J. Miszkowicz:World Trade Center    34305    0
+  Deborah Merrick:World Trade Center    34305    0
+  Rosa J. Gonzalez:secretary    56335    0
+  Richard Avery Aronow:lawyer    100859    0
+  Arlene T. Babakitis:Port Authority of New York and New Jersey    37425    0
+  Daniel David Bergstein:secretary    56335    0
+  Kalyan K. Sarkar:engineer    105205    0
+  Margaret L. Benson:Human resources    60155    0
+  Franco Lalama:engineer    105205    2
+  Myrna T. Maldonado-Agosto:systems administrator    82792    0
+  Dwight Donald Darcy:attorney    94793    0
+  Edward T. Keane:consultant    88508    2
+  Stephen J. Fiorelli:civil engineer    75700    1
+  Patrick A. Hoey:executive manager of tunnels    102799    3
+-------:66
+110383
+16
+3
+  Pablo Ortiz:computer technician    45262    0
+  Prem Nath Jerath:project manager    96265    0
+  Lisa L. Trerotola:office manager    53994    0
+  Judith Ann Reese:null    33782    0
+  Vaswald George Hall:courier    32971    0
+  Anthony Savas:Aon Corp.    0    0
+  Robert Sutcliffe:broker    95640    0
+  Wei Rong Lin:president    110383    0
+  Rosemarie C. Carlson:World Trade Center    34305    1
+  Robert T. Twomey:trader    141084    2
+  Gricelda E. James:null    33782    0
+  William V. Steckman:Marsh & McLennan Cos. Inc.    36028    0
+  Emeric Harvey:president    110383    3
+  Cynthia Motus-Wilson:receptionist    34661    2
+  Michael J. Pascuma: Jr.    38475    3
+  Michael J. Berkeley:firefighter    70439    0
+  Lawrence Patrick Dickinson:broker    95640    2
+  Kirsten Reese Santiago:insurance adjuster    75327    0
+  Olabisi Shadie Layeni Yee:manager    80429    1
+  Thomas G. Sullivan:broker    95640    2
+  Moises N. Rivas:chef    63719    0
+  Alejo Perez:Windows on the World    37968    0
+  Mohammad Salahuddin Chowdhury:waiter    30659    0
+-------:67
+46093
+12
+1
+  Charles J. Mauro:director    129669    0
+  Sophia B. Addo:Housekeeping    36022    1
+  Roshan Ramesh Singh:equipment technician    64940    1
+  Abdoulaye Koné:Windows on the World    37968    1
+  Victor Kwarkye:waiter    30659    1
+  Enrique Antonio Gomez:food service handler    25380    1
+  Abdoul Karim Traore:chef    63719    1
+  Leonel Geronimo Morocho Morocho:chef    63719    1
+  Khamladai Khami Singh:manager    80429    1
+  Jonathan Eric Briley:technician    46093    1
+  Manuel O. Asitimbay:cook    26841    0
+  Jose Bienvenido Gomez:food service handler    25380    1
+  Isidro D. Ottenwalder:Windows on the World    37968    0
+  John Foster Puckett:technician    46093    1
+  Blanca Robertina Morocho Morocho:Windows on the World    37968    1
+  Martin Morales Zempoaltecatl:chef    63719    0
+  Jesus Neptali Cabezas:cook    26841    0
+  Christine Anne Olender:Windows on the World    37968    0
+  Norberto Hernandez:pastry sous chef    56579    0
+-------:68
+60335
+0
+0
+  Annette Andrea Dataram:accountant    67081    0
+  Ivhan Luis Carpio Bautista:Windows on the World    37968    0
+  Victor Hugo Paz:chef    63719    0
+  Sadie Ette:account representative    56388    0
+  Jesus Ovalles:Windows on the World    37968    0
+  Jan Maciejewski:consultant    88508    0
+  Eugueni Kniazev:waiter    30659    0
+  Manuel Emilio Mejia:food service handler    25380    0
+  Jose Nicolas De Pena:Windows on the World    37968    0
+  Wilder Alfredo Gomez:waiter    30659    0
+  David Bartolo Rodriguez-Vargas:food service handler    25380    0
+  Howard Lee Kane:comptroller    60335    0
+  Jackie Sayegh Duggan:manager    80429    0
+  Orasri Liangthanasarn:Windows on the World    37968    0
+  Clara Victorine Hinds:seamstress    36786    0
+  Eliezer Jimenez: Jr.    38475    0
+  Enemencio Dario Hidalgo Cedeño:food service handler    25380    0
+  Jupiter Yambem:manager    80429    0
+  Alan Charles LaFrance:currency broker    95640    0
+  Jeffrey Alan Coale:assistant wine master    49377    0
+  Gilbert Ruiz:food service handler    25380    0
+  Virgin Lucy Francis:Housekeeping    36022    0
+-------:69
+25380
+0
+0
+  Nancy Diaz:Aon Corp.    0    0
+  Antonio Javier Alvarez:chef    63719    0
+  Stephen George Adams:beverage manager    64033    0
+  Sandy Ayala:waiter    30659    0
+  Veronique Nicole Bowers:credit collections manager    65524    0
+  Juan Nieves: Jr.    38475    0
+  John Holland:Windows on the World    37968    0
+  Shabbir Ahmed:waiter    30659    0
+  Gregorio Manuel Chavez:Windows on the World    37968    0
+  Luke A. Dudek:food and beverage controller    83216    0
+  Yang Der Lee:delivery clerk    53476    0
+  Antonio Melendez:food service handler    25380    0
+  Henry Fernandez:World Trade Center    34305    0
+  Heather Malia Ho:executive chef    90932    0
+  Jeffrey G. La Touche:food service handler    25380    0
+  Luis Alfonso Chimbo:receiving attendant    43852    0
+  Doris Suk-Yuen Eng:manager    80429    0
+  Leobardo Lopez Pascual:Windows on the World    37968    0
+  Carlos Mario Muñoz:Windows on the World    37968    0
+  Muhammadou Jawara:security guard    27138    0
+  Jaime Concepcion:food service handler    25380    0
+  Juan G. Salas:food service handler    25380    0
+  Manuel D. Patrocino:Windows on the World    37968    0
+-------:70
+93216
+8
+0
+  Telmo E. Alvear:waiter    30659    0
+  Jerome O. Nedd:Windows on the World    37968    0
+  Jay Robert Magazine:manager    80429    0
+  Emmanuel Akwasi Afuakwah:porter    29460    0
+  Manuel João DaMota:project manager    96265    1
+  Jose Nunez:food service handler    25380    0
+  Thomas F. Hughes: Jr.    38475    0
+  Joseph D. Mistrulli:subcontractor    54216    0
+  Iouri A. Mouchinski:World Trade Center    34305    0
+  Francois Jean-Pierre:waiter    30659    0
+  Joshua Iosua Poptean:construction foreman    61458    4
+  Francisco Miguel Mancini:construction worker    93216    0
+  John Ernst Eichler:retired director of administration    101203    0
+  Eustace R. Bacchus:independent trader    141084    0
+  Steven A. Jacobson:transmitter engineer    105205    0
+  Obdulio Ruiz Diaz:project manager    96265    1
+  Juan Mendez Lafuente:vice president    177350    0
+  Ricknauth Jaggernauth:construction worker    93216    1
+  Charles A. Lesperance:New York State Department of Transportation    39390    0
+  Rocco A. Medaglia:construction foreman    61458    1
+  See Wong Shum:systems administrator    82792    0
+  Ignatius Udo Adanga:New York State Department of Transportation    39390    0
+-------:71
+69070
+2
+0
+  Toyena Corliss Skinner:associate    72940    0
+  Michael A. Diaz-Piedra III:vice president    177350    0
+  Carlos Segarra:supervisor    49239    0
+  Eduvigis Reyes: Jr.    38475    0
+  Antoinette Duger:Operations associate    62053    0
+  Catherina Henry-Robinson:administrative assistant    43528    0
+  Helen D. Cook:customer service    31432    0
+  Joseph Kent Collison:firefighter    70439    0
+  Giovanna Porras:research associate    80702    0
+  Juan William Rivera:technician    46093    0
+  Elsy Carolina Osorio Oliva:junior translation engineer    69070    0
+  Darryl Anthony Taylor:analyst    74958    0
+  Margaret Elaine Mattic:customer service    31432    0
+  Harvey Joseph Gardner III:call records management supervisor    56619    0
+  LaShawna Johnson:customer service    31432    0
+  Curtis Terrance Noel:switch operations technician    54933    1
+  Joyce Ann Carpeneto:call records management assistant    54227    0
+  Tara McCloud Gray:technician    46093    0
+  Aisha Ann Harris:customer service representative    31432    1
+  Fitzroy St. Rose:computer technician    45262    0
+-------:72
+45005
+0
+0
+  Susan P. Conlon:Marsh & McLennan Cos. Inc.    36028    0
+  Rosemary A. Smith:receptionist    34661    0
+  Timothy Franklin O'Sullivan:consultant    88508    0
+  Robert T. Hughes: Jr.    38475    0
+  Karen Lynn Seymour:computer specialist    78611    0
+  Liam Joseph Colhoun:operations supervisor    72368    0
+  Felix Bobby Calixte:technician    46093    0
+  Philip Haentzler:legal administrative officer    56898    0
+  Jennieann Maffeo:senior associate in systems development    45005    0
+  Bon Seok Koo:insurance adjuster    75327    0
+  Robert Kirkpatrick:maintenance supervisor    56742    0
+  Monica Rodriguez Smith and her unborn child:manager    80429    0
+  Stephen A. Knapp:beverage manager    64033    0
+  William Macko:World Trade Center    34305    0
+  John DiGiovanni:firefighter    70439    0
+  Wilfredo Mercado:security guard    27138    0
+-------:73
+36262
+9
+1
+  Thomas F. McGuinness: Jr.    38475    0
+  Dianne Bullis Snyder:flight attendant    36262    0
+  John A. Ogonowski:captain    67885    1
+  Jeffrey Dwayne Collman:flight attendant    36262    0
+  Betty Ann Ong:flight attendant    36262    2
+  Kathleen Ann Nicosia:flight attendant    36262    2
+  Sara Elizabeth Low:vice president    177350    0
+  Jean Destrehan Rogér:flight attendant    36262    0
+  Madeline Amy Sweeney:flight attendant    36262    0
+  Barbara Jean Arestegui:flight attendant    36262    2
+  Karen Ann Martin:flight attendant    36262    1
+  Myra Joy Aronson:manager    80429    0
+  Patrick Joseph Currivan:vice president    177350    0
+  Jessica Leigh Sachs:auditor    83903    0
+  Antonio De Jesus Montoya Valdes:housekeeping worker    36022    0
+  Pendyala Vamsikrishna:engineer    105205    0
+  Thomas Nicholas Pecorelli:cameraman    41376    0
+  Charles Edward Jones:retired astronautical engineer and manager of space programs    0    0
+  Douglas Joel Stone:publisher    61408    0
+  Renee Tetreault Newell:customer service associate    31432    1
+-------:74
+75885
+5
+0
+  Natalie Janis Lasden:software architect    164456    1
+  Neilie Anne Heffernan Casey:planning manager    95300    1
+  Candace Lee Williams:Northeastern University student    38302    0
+  Paige Marie Farley-Hackel:spiritual counselor    49084    0
+  Carol Marie Bouchard:emergency room secretary    62346    1
+  Donald Americo DiTullio:endoscopy division    38951    1
+  Paul J. Friedman:management consultant    108588    0
+  Mildred Rose Naiman:retired tester    0    0
+  Tara Kathleen Creamer:planning manager    95300    1
+  Laura Lee Defazio Morabito:national sales manager    75885    0
+  Jane Marie Orth:null    33782    0
+  Heather Lee Smith:analyst    74958    0
+  Lisa Fenn Gordenstein:assistant vice president and merchandise manager    0    0
+  Linda M. George:manager    80429    0
+  Dino Xavier Suarez Ramirez:engineer    105205    0
+  Carlos Alberto Montoya:AA Flight 11    0    0
+  Christopher D. Mello:firefighter    70439    0
+  Daniel M. Lewin:co-founder and chief technology officer    152612    0
+  Edmund Glazer:chief financial officer    161197    0
+-------:75
+71933
+0
+0
+  Sonia Mercedes Morales Puopolo:null    33782    0
+  Brian Paul Dale:partner    139243    0
+  John Charles Jenkins:retired astronautical engineer and manager of space programs    0    0
+  Berry Berenson Perkins:actor    39967    0
+  Laurie Ann Neira:transcriber    71933    0
+  Edward R. Hennessy: Jr.    38475    0
+  Robert Jay Hayes:sales engineer    144711    0
+  Barbara A. Keating:Assistant Deputy Chief    108121    0

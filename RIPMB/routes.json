@@ -1,0 +1,893 @@
+[
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 38.7819205,
+        "lng": -90.2741317
+      },
+      "southwest": {
+        "lat": 38.7381145,
+        "lng": -90.4327407
+      }
+    },
+    "copyrights": "Map data ©2019 Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "11.9 mi",
+          "value": 19106
+        },
+        "duration": {
+          "text": "18 mins",
+          "value": 1077
+        },
+        "end_address": "2964 Canfield Ct, St. Louis, MO 63136, USA",
+        "end_location": {
+          "lat": 38.7386218,
+          "lng": -90.2741317
+        },
+        "start_address": "12277 De Paul Ln, Bridgeton, MO 63044, USA",
+        "start_location": {
+          "lat": 38.7517137,
+          "lng": -90.4325872
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "341 ft",
+              "value": 104
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 34
+            },
+            "end_location": {
+              "lat": 38.7520961,
+              "lng": -90.4315136
+            },
+            "html_instructions": "Head <b>northeast</b> toward <b>De Paul Ln</b>",
+            "polyline": {
+              "points": "euokFtr}fPAACGAGCIEECEGGCKAIKq@E[CQIYIW"
+            },
+            "start_location": {
+              "lat": 38.7517137,
+              "lng": -90.4325872
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.1 mi",
+              "value": 204
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 45
+            },
+            "end_location": {
+              "lat": 38.7530177,
+              "lng": -90.42968549999999
+            },
+            "html_instructions": "Continue onto <b>De Paul Ln</b>",
+            "polyline": {
+              "points": "swokF|k}fPWo@[o@KQS[k@s@i@s@OQEIEKAO?K@M@IJY"
+            },
+            "start_location": {
+              "lat": 38.7520961,
+              "lng": -90.4315136
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "344 ft",
+              "value": 105
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 28
+            },
+            "end_location": {
+              "lat": 38.7534691,
+              "lng": -90.42885009999999
+            },
+            "html_instructions": "Turn <b>left</b> to stay on <b>De Paul Ln</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "k}okFp`}fPTa@u@m@GEEGEGO[Ue@"
+            },
+            "start_location": {
+              "lat": 38.7530177,
+              "lng": -90.42968549999999
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.3 mi",
+              "value": 533
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 78
+            },
+            "end_location": {
+              "lat": 38.7571915,
+              "lng": -90.43269330000001
+            },
+            "html_instructions": "Turn <b>left</b> at the 1st cross street onto <b>St Charles Rock Rd</b><div style=\"font-size:0.9em\">Pass by Taco Bell (on the left)</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e`pkFh{|fPUVy@~@uB|BoBtB_AdAcAhAo@n@STI@G@KHs@r@KJy@x@YXw@z@"
+            },
+            "start_location": {
+              "lat": 38.7534691,
+              "lng": -90.42885009999999
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.2 mi",
+              "value": 275
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 22
+            },
+            "end_location": {
+              "lat": 38.7588987,
+              "lng": -90.430652
+            },
+            "html_instructions": "Turn <b>right</b> onto the <b>Interstate 270 N</b> ramp",
+            "polyline": {
+              "points": "mwpkFhs}fPODG@I@I?IAIAGC_@q@cAeB_@q@Ye@[o@s@aBEGCEECOE"
+            },
+            "start_location": {
+              "lat": 38.7571915,
+              "lng": -90.43269330000001
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "8.4 mi",
+              "value": 13480
+            },
+            "duration": {
+              "text": "8 mins",
+              "value": 473
+            },
+            "end_location": {
+              "lat": 38.7712513,
+              "lng": -90.28436049999999
+            },
+            "html_instructions": "Merge onto <b>I-270 N</b>",
+            "maneuver": "merge",
+            "polyline": {
+              "points": "cbqkFpf}fPy@aCAAoBqFsAsDQg@mBmFwBcGuBcGgA_Dg@wAIS?Au@sBcIkUq@sBEOoD_KcCeHkBmF_BoEs@cBWu@_@iA}EeNiA_D_@cAi@_Bg@yAM]kFgOg@yAi@wAgA_DoAqDkAeDmDcKeB}EiDyJg@sAaDeJmBmF}EgNK]AASm@AAMa@y@_C}CwIs@wBu@uBm@aBwAeEwAaEWs@Mc@Oe@Ss@c@cB_@gB[gBM{@Ik@SkBIu@KuAGcAI}ACy@Aw@AsA?oB@u@B{@By@FsAFmAJqALqAHw@PgARqAhAqGnB}KjBmKrBcLReAh@wCnAsIVsBRyAHw@^iDJy@BQFg@Fw@\\yDFy@RoCHuATsEHgBRcEJ}BtAeYd@cK\\uGPcDHiBD_ABi@Do@Bc@B[B]DYNkB`@yCj@wEL{@RgB@KDa@BWFaA?C?A@YB[@U@Y?O@M?E?K?OBqF?W@_DBqE@cABmA?A@]?C@O?IRgEx@iQj@kL@M`@mIDk@@YrA}WRkEJsBBa@F}AFgBDk@F{ATyERuDPkDZsGNuCPcDh@yKLcCn@uMFqABi@?CFkAR{DN{CNoCJuBPqDPyDJ}APsDT_F?EHwBFsA@WL}DJaDHkDD}B@m@B{A@I?c@@m@BiC@k@?AB{DF{IDsE@oBBeBDiG@u@B{D?a@FsH"
+            },
+            "start_location": {
+              "lat": 38.7588987,
+              "lng": -90.430652
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.2 mi",
+              "value": 341
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 30
+            },
+            "end_location": {
+              "lat": 38.770654,
+              "lng": -90.280519
+            },
+            "html_instructions": "Take exit <b>29</b> for <b>W Florissant Ave</b>",
+            "maneuver": "ramp-right",
+            "polyline": {
+              "points": "ioskFft`fPLa@?CDo@HeAFw@BQVoBLaAFo@Fg@Dm@B[Bg@BU@c@@c@@_A"
+            },
+            "start_location": {
+              "lat": 38.7712513,
+              "lng": -90.28436049999999
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "2.3 mi",
+              "value": 3654
+            },
+            "duration": {
+              "text": "5 mins",
+              "value": 321
+            },
+            "end_location": {
+              "lat": 38.7381145,
+              "lng": -90.2784267
+            },
+            "html_instructions": "Keep <b>right</b> at the fork and merge onto <b>W Florissant Ave</b><div style=\"font-size:0.9em\">Pass by McDonald's (on the right in 0.2&nbsp;mi)</div>",
+            "maneuver": "fork-right",
+            "polyline": {
+              "points": "qkskFf|_fPFSDOHMLITGNIL@b@DX@ZI`@DNBl@F^B\\BT@x@H^BVBZBRBN@\\BRBn@FR?XB~@H`AJt@@`@D\\@B?L?L?PAj@G\\ENCf@KbB[j@M~@St@Qr@Oz@KZGd@IpAWv@OJADANAJAR?ZCT?N?L?X?Z@F?\\?f@@|@?Z?nA?`A@fA?zA@h@@jBBnDFlA?jB@\\?D?b@@b@@hB@hC@V@nA@|@?^?F?~@Bh@?P@X?N@T?R?h@@\\@N?X?P?R?Z?h@@R?D?hA@j@@^?|@@F?`@@F?V@n@?T?RAb@Cd@Ep@Gv@GhAKb@CRCp@EdHi@jAK|BQhFc@tAMfBM`Gg@|D[fAKnAIj@Er@ElACL?fB?bAA"
+            },
+            "start_location": {
+              "lat": 38.770654,
+              "lng": -90.280519
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.2 mi",
+              "value": 386
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 38.7387527,
+              "lng": -90.2743551
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Canfield Dr</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e`mkFdo_fP?MAKIoBI{AC]CSCOEOCIEIaAgBEKEMQm@EMESEUESE[CWAO?O?M@I@Q@KDMBKFO\\q@"
+            },
+            "start_location": {
+              "lat": 38.7381145,
+              "lng": -90.2784267
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "79 ft",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 38.7386218,
+              "lng": -90.2741317
+            },
+            "html_instructions": "Continue onto <b>Canfield Ct</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "edmkFvu~ePFOP]"
+            },
+            "start_location": {
+              "lat": 38.7387527,
+              "lng": -90.2743551
+            },
+            "travel_mode": "DRIVING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "euokFtr}fPK[IKKSWiBSq@s@_B_@m@uAgBU[G[@YLc@Ta@u@m@MMUc@Ue@UVoD|DoDzDsBxBSTI@SJ_A~@sArAw@z@ODQBSAQEcBwCy@wAoAqCIMUI_GiPgNk`@qLc]_Ocb@kAyC}FoPsCcIwQih@eNo`@yNya@gJyWuF}OuAaF{@oEWgB]aDSyCMwCCkC@eDFuBNaDXcDZ_C|AcJbJug@h@wCnAsIj@mEx@mHt@sI\\eF^{HzCko@pA}VHw@p@eGnAgKP_CFmAB}@BeHJcOBs@dDir@vB_c@\\mIpDgt@vBic@lBqa@b@kMTsLTkX^{f@Le@NuBp@{FXaDJeC@_AFSN]b@QNIL@|@FZI`@D|@J|@FfCR|ALpBN`CTvAF|@@|@Il@IvFiAhBa@vASzDs@t@EnACzA@`NFzGJxD@jBBrFBfBBdDBvEFnD@|GHdA?v@ExEa@nKw@hOoAnR}AzBO`CItB?bAA?MK{BMyBQ}@gAqBKYc@eBQwABy@FYJ[v@_B"
+    },
+    "summary": "I-270 N",
+    "warnings": [],
+    "waypoint_order": []
+  },
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 38.779277,
+        "lng": -90.23746469999999
+      },
+      "southwest": {
+        "lat": 38.7381145,
+        "lng": -90.2806715
+      }
+    },
+    "copyrights": "Map data ©2019 Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "5.7 mi",
+          "value": 9108
+        },
+        "duration": {
+          "text": "12 mins",
+          "value": 696
+        },
+        "end_address": "2964 Canfield Ct, St. Louis, MO 63136, USA",
+        "end_location": {
+          "lat": 38.7386218,
+          "lng": -90.2741317
+        },
+        "start_address": "11133 Dunn Rd, St. Louis, MO 63136, USA",
+        "start_location": {
+          "lat": 38.7759531,
+          "lng": -90.2404372
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "413 ft",
+              "value": 126
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 41
+            },
+            "end_location": {
+              "lat": 38.7757407,
+              "lng": -90.23902199999999
+            },
+            "html_instructions": "Head <b>east</b> toward <b>Dunn Rd</b>",
+            "polyline": {
+              "points": "ultkFvaxeP@q@A{@De@@UDUBKVoA"
+            },
+            "start_location": {
+              "lat": 38.7759531,
+              "lng": -90.2404372
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.3 mi",
+              "value": 457
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 38.7792465,
+              "lng": -90.23746469999999
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Dunn Rd</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "kktkFzxwePqAi@y@[k@QA?y@YYIm@Sc@MQCAAMAIAKAO?Q?O?G@e@Dy@FE?O@YBS?KCKCIEECGGGGGMEQAEAIAMAM@UB_@"
+            },
+            "start_location": {
+              "lat": 38.7757407,
+              "lng": -90.23902199999999
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.4 mi",
+              "value": 598
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 35
+            },
+            "end_location": {
+              "lat": 38.773997,
+              "lng": -90.2388096
+            },
+            "html_instructions": "Turn <b>right</b> to merge onto <b>MO-367 S</b>",
+            "polyline": {
+              "points": "iaukFbowePl@Rt@Rd@L@@XFd@Hl@H`@Fj@H`AF`@DD?j@Dj@H|@THBLDTBNEvA`@bATTFv@Nf@Fd@Fv@Fb@B"
+            },
+            "start_location": {
+              "lat": 38.7792465,
+              "lng": -90.23746469999999
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "2.1 mi",
+              "value": 3413
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 127
+            },
+            "end_location": {
+              "lat": 38.7711997,
+              "lng": -90.27623539999999
+            },
+            "html_instructions": "Merge onto <b>I-270 W</b> via the ramp to <b>Kansas City</b>",
+            "polyline": {
+              "points": "o`tkFpwwePTLDBX@ZFTDPDf@P\\LRJPJFB\\XRPFHPPHJHLPXHPLVJZPf@l@|Al@fBPf@Xr@\\`A@BFRDPDJDRBHBNDZDZ@N@LBVN`A?tAA`A?~BEhPAl@?l@?l@AhCAdFIrT?|AInSAhD?lBAvBAzA?n@ArA?t@E~LCfIC~JAhA?D?D?rAGjRAhEAhCCdFCtFEdH"
+            },
+            "start_location": {
+              "lat": 38.773997,
+              "lng": -90.2388096
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.1 mi",
+              "value": 207
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 15
+            },
+            "end_location": {
+              "lat": 38.7716441,
+              "lng": -90.27854409999999
+            },
+            "html_instructions": "Take exit <b>29</b> toward <b>W Florissant Ave</b>",
+            "maneuver": "ramp-right",
+            "polyline": {
+              "points": "_oskFna_fPM\\?@?DI~@?BMtA?FSvBI~@Ij@I^"
+            },
+            "start_location": {
+              "lat": 38.7711997,
+              "lng": -90.27623539999999
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "285 ft",
+              "value": 87
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 38.7717475,
+              "lng": -90.2795278
+            },
+            "html_instructions": "Merge onto <b>Dunn Rd</b>",
+            "maneuver": "merge",
+            "polyline": {
+              "points": "wqskFzo_fPOv@Cz@ApA"
+            },
+            "start_location": {
+              "lat": 38.7716441,
+              "lng": -90.27854409999999
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "2.4 mi",
+              "value": 3810
+            },
+            "duration": {
+              "text": "6 mins",
+              "value": 366
+            },
+            "end_location": {
+              "lat": 38.7381145,
+              "lng": -90.2784267
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>W Florissant Ave</b><div style=\"font-size:0.9em\">Pass by McDonald's (on the right in 0.3&nbsp;mi)</div>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "mrskF`v_fPCfA?`@TAf@A`@?X@R@v@FV@X@P?`@@L@b@DX@ZI`@DNBl@F^B\\BT@x@H^BVBZBRBN@\\BRBn@FR?XB~@H`AJt@@`@D\\@B?L?L?PAj@G\\ENCf@KbB[j@M~@St@Qr@Oz@KZGd@IpAWv@OJADANAJAR?ZCT?N?L?X?Z@F?\\?f@@|@?Z?nA?`A@fA?zA@h@@jBBnDFlA?jB@\\?D?b@@b@@hB@hC@V@nA@|@?^?F?~@Bh@?P@X?N@T?R?h@@\\@N?X?P?R?Z?h@@R?D?hA@j@@^?|@@F?`@@F?V@n@?T?RAb@Cd@Ep@Gv@GhAKb@CRCp@EdHi@jAK|BQhFc@tAMfBM`Gg@|D[fAKnAIj@Er@ElACL?fB?bAA"
+            },
+            "start_location": {
+              "lat": 38.7717475,
+              "lng": -90.2795278
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.2 mi",
+              "value": 386
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 44
+            },
+            "end_location": {
+              "lat": 38.7387527,
+              "lng": -90.2743551
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Canfield Dr</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "e`mkFdo_fP?MAKIoBI{AC]CSCOEOCIEIaAgBEKEMQm@EMESEUESE[CWAO?O?M@I@Q@KDMBKFO\\q@"
+            },
+            "start_location": {
+              "lat": 38.7381145,
+              "lng": -90.2784267
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "79 ft",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 38.7386218,
+              "lng": -90.2741317
+            },
+            "html_instructions": "Continue onto <b>Canfield Ct</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "edmkFvu~ePFOP]"
+            },
+            "start_location": {
+              "lat": 38.7387527,
+              "lng": -90.2743551
+            },
+            "travel_mode": "DRIVING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "ultkFvaxeP?mBF{@Ha@VoAqAi@eBm@{@Y}Bo@e@Gy@@uBNm@BWG_@YM_@COC[Du@jCv@nCb@tCVvANfAXb@HNEvA`@xA\\~AV|ANb@BTL^Dp@Lx@Vp@Xv@h@v@x@d@x@xAxDvBdGTt@RhALpAN`A?tAA`EGrT[`dAg@b~AEdHM\\?FW`D]vDSjAOv@Cz@ExC?`@TAhAA|BLzAD|@FZI`@D|@J|@FfCRnE\\`CTvAF|@@|@Il@IvFiAhBa@vASzDs@t@EnAClHBnGDzGJxD@jBBrFBfBBdDBdBB`EBrHFhABdA?v@ExEa@nKw@hOoAnR}AzBO`CItB?bAA?MK{BMyBQ}@gAqBKYc@eBQwABy@FYJ[v@_B"
+    },
+    "summary": "I-270 W and W Florissant Ave",
+    "warnings": [],
+    "waypoint_order": []
+  },
+  {
+    "bounds": {
+      "northeast": {
+        "lat": 38.73901840000001,
+        "lng": -90.2741317
+      },
+      "southwest": {
+        "lat": 38.62875820000001,
+        "lng": -90.3621221
+      }
+    },
+    "copyrights": "Map data ©2019 Google",
+    "legs": [
+      {
+        "distance": {
+          "text": "14.6 mi",
+          "value": 23457
+        },
+        "duration": {
+          "text": "21 mins",
+          "value": 1231
+        },
+        "end_address": "2964 Canfield Ct, St. Louis, MO 63136, USA",
+        "end_location": {
+          "lat": 38.7386218,
+          "lng": -90.2741317
+        },
+        "start_address": "6400 de Mun Ave, Richmond Heights, MO 63117, USA",
+        "start_location": {
+          "lat": 38.6320295,
+          "lng": -90.3113017
+        },
+        "steps": [
+          {
+            "distance": {
+              "text": "85 ft",
+              "value": 26
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 8
+            },
+            "end_location": {
+              "lat": 38.6317989,
+              "lng": -90.31133419999999
+            },
+            "html_instructions": "Head <b>south</b> toward <b>Bellevue Ave</b>",
+            "polyline": {
+              "points": "eixjFr|efPP@ZB"
+            },
+            "start_location": {
+              "lat": 38.6320295,
+              "lng": -90.3113017
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "253 ft",
+              "value": 77
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 25
+            },
+            "end_location": {
+              "lat": 38.6318876,
+              "lng": -90.3122162
+            },
+            "html_instructions": "Turn <b>right</b> toward <b>Bellevue Ave</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "wgxjFx|efPCf@?@IxACl@"
+            },
+            "start_location": {
+              "lat": 38.6317989,
+              "lng": -90.31133419999999
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.2 mi",
+              "value": 346
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 56
+            },
+            "end_location": {
+              "lat": 38.6288291,
+              "lng": -90.3124775
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Bellevue Ave</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "ihxjFjbffP~AJfDXF?BAB?@ABABABA@CBABCBE\\GL?DAJ@D?^FfBVbBN"
+            },
+            "start_location": {
+              "lat": 38.6318876,
+              "lng": -90.3122162
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.6 mi",
+              "value": 991
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 93
+            },
+            "end_location": {
+              "lat": 38.6294566,
+              "lng": -90.3237163
+            },
+            "html_instructions": "Turn <b>right</b> onto the <b>Interstate 64 W</b>/<b>US 40 W</b> ramp",
+            "polyline": {
+              "points": "euwjF~cffPAZ?^FfBFbDAdCAh@MvDA\\Cn@ADIrBI~@SjBKbA{@zEUpACLADAN?\\@|@AdC?rA?J@jA@|@@fAD|B@^@r@@N@HFL"
+            },
+            "start_location": {
+              "lat": 38.6288291,
+              "lng": -90.3124775
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.8 mi",
+              "value": 1275
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 48
+            },
+            "end_location": {
+              "lat": 38.6298407,
+              "lng": -90.3383808
+            },
+            "html_instructions": "Merge onto <b>I-64 W</b>/<b>US-40 W</b>",
+            "maneuver": "merge",
+            "polyline": {
+              "points": "cywjFfjhfPAvB?pACfAAx@?PEvBGjDAx@?l@Cv@?@?HExACtBC|CA^?B?H?XABAnACdBChCKvH?v@ChCA`B?^?L?\\A|@?^?L?`I?`A?rD"
+            },
+            "start_location": {
+              "lat": 38.6294566,
+              "lng": -90.3237163
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.4 mi",
+              "value": 667
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 31
+            },
+            "end_location": {
+              "lat": 38.6323802,
+              "lng": -90.3441851
+            },
+            "html_instructions": "Take exit <b>31A</b> for <b>Interstate 170 N</b> toward <b>Airport</b>",
+            "maneuver": "ramp-right",
+            "polyline": {
+              "points": "o{wjFzekfPG^E^C~@?FEtBAr@?zA?jE?X?TCXAZEXCVETERCJ?@ENGR?BEJENIPGLEJCBEJINQVMPIJMR]\\OJMHEBKFMH_@NYJKBODa@HG?Q@]B_@?WD"
+            },
+            "start_location": {
+              "lat": 38.6298407,
+              "lng": -90.3383808
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "7.2 mi",
+              "value": 11516
+            },
+            "duration": {
+              "text": "7 mins",
+              "value": 425
+            },
+            "end_location": {
+              "lat": 38.7248421,
+              "lng": -90.3314954
+            },
+            "html_instructions": "Continue onto <b>I-170 N</b>",
+            "polyline": {
+              "points": "kkxjFdjlfPi@?k@Ci@Ec@Cm@Ie@I[GGAkCg@SEMCc@Kk@GYEg@Ig@EUEWASAw@C]?c@?oADgBRy@Rw@T[LcChAuFjCmAh@s@^mDbBqAr@wDnB}DjBYN_Bx@cDzAeEpB{@^GDIDw@^aCjA{DhBSLmAz@a@Zc@^s@r@CBgAjAa@b@u@v@m@l@g@h@o@n@YTe@b@y@l@WP{A~@_@RC@UJEDMDQHUJm@Ti@RWHSFm@LsA\\MBa@J{@RiB`@GBc@JSFo@POBQFWHi@PA@a@LC@}@^oAl@uBbAa@PwAr@kAj@k@ZkCpAwCxAaBv@{Ar@kFhC?@wDhBuBbAyBfAgCnA}@^i@VSH{@ZsAb@}@V{@RUFo@Ni@Hg@JeANq@HK@{Fv@iBT_D`@OBi@Fi@FUBUBo@Dk@BK@w@@_AAi@A[AUAi@E_AIWEYEe@Ig@K[IUGUGSGQGo@SEC_@MAASGqCiASGeBq@i@WAAe@Ug@Ww@e@[SKIu@o@c@a@YYIGc@a@a@c@UUOSm@u@U]IIa@i@e@u@S[[i@]k@c@y@q@iAg@_AW_@EG]k@OQMOIKIKSSg@e@_@[a@]g@[e@WSKUKSIAAQIIEMESGSIWGQESESEa@EQESCm@IkB?_BEq@Cm@Ek@EUCWESCWCi@K[Ge@Ky@Uq@Qk@Qk@Ua@S{@a@{@c@y@a@UMSMUMOKMIWOe@]QMc@]c@_@KKWUs@u@u@w@MMqBaCwAcBY]eBsBoB}BcAmAcAmAMOyBgCY]OOiAqAo@k@AAu@m@GCaAq@[OMG}@_@}@Wo@Qw@McAOkAG}BIeAGk@GOCuAYs@Su@Wm@Yo@]a@Uo@e@c@a@SQOOKKg@i@k@u@g@u@Wa@U_@aAiBkGqLiAuBEIUc@yAqC_AaBmAyBi@y@Ye@eAwAw@cA[]iBoBqAeAwB_BiCaBy@_@g@Se@Qk@SKEa@MWG}@Wk@Mk@Ic@Gc@Ee@EmBM_@AkCOSAyBIeJe@c@CeGYqEWmEUQAS?QAUAcFYUCgEY{EWqDQwBK"
+            },
+            "start_location": {
+              "lat": 38.6323802,
+              "lng": -90.3441851
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "2.8 mi",
+              "value": 4471
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 171
+            },
+            "end_location": {
+              "lat": 38.7120997,
+              "lng": -90.2881414
+            },
+            "html_instructions": "Take exit <b>7A</b> to merge onto <b>I-70 E</b> toward <b>St Louis</b>",
+            "maneuver": "ramp-right",
+            "polyline": {
+              "points": "gmjkFzzifPQKICGAOAOAKAKCYEQEOGOEMEYOQIMIOKMIYSWSQSKMGKEIKSGMEKIUGYIc@CQASAQAK?CAU?M?M@K?OBYD]DSDWDODO@G?AFQHSDONc@@K@UfC{DhB_CvBqCp@}@JO^g@zCgEdAuAX_@lAaBNSl@y@\\e@^i@LSXg@d@eARe@BI`@gATq@Ry@J_@DUDULi@@MF[D[BYD]B]B[Fs@D{@@g@?c@@wDJ}H@yAFaF@sA@y@?}AA}@C}CEcCEcCCsBGiCEoBCuAAa@Ag@@U?_@@q@B}@DuADi@B]Ds@Hw@Hu@Ju@Ho@BOHk@Jq@Nq@VcALe@Jc@Pi@Pi@Tm@Ri@N_@Vm@LYXi@HQHM`@u@z@uAf@w@rAuBnAmBv@mA\\k@P_@l@qAHSBK@?l@iBh@yBV{AN}@RaBHk@Da@Ho@NqAJq@F]F]DWXmAL_@Ja@d@mALWVk@JWLWZk@|@uABEx@oAbAuAxAuBnAgBDEXa@NU`@k@Ze@h@eAHO"
+            },
+            "start_location": {
+              "lat": 38.7248421,
+              "lng": -90.3314954
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.1 mi",
+              "value": 217
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 18
+            },
+            "end_location": {
+              "lat": 38.7106084,
+              "lng": -90.28655649999999
+            },
+            "html_instructions": "Take exit <b>241B</b> for <b>Missouri U</b>/<b>Lucas and Hunt Rd</b>",
+            "maneuver": "ramp-right",
+            "polyline": {
+              "points": "s}gkFzkafPTKBCBEl@y@l@m@LKZ[TSFG?AFGn@m@HIHIPS@CFU"
+            },
+            "start_location": {
+              "lat": 38.7120997,
+              "lng": -90.2881414
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "1.2 mi",
+              "value": 1969
+            },
+            "duration": {
+              "text": "3 mins",
+              "value": 174
+            },
+            "end_location": {
+              "lat": 38.7254368,
+              "lng": -90.2751253
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>Lucas and Hunt Rd</b>/<b>Lucas-Hunt Rd</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "itgkF~aafPNk@F[HWs@c@y@k@c@YUOOKSMc@Y]Ua@Wu@c@eAq@_Am@a@W]U_@WeAi@gAq@WGeAe@g@YY_@y@i@]W_@W]W]W}AeAk@_@MIQK}@k@]UCASAwA}@cBkA_@Uq@g@cG}D_Am@q@c@CC_Am@KGeAq@wAcA_@W}@k@{DiC}@k@m@a@e@YIWAA?AkAq@gAu@q@g@}@q@YYc@a@"
+            },
+            "start_location": {
+              "lat": 38.7106084,
+              "lng": -90.28655649999999
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.9 mi",
+              "value": 1492
+            },
+            "duration": {
+              "text": "2 mins",
+              "value": 140
+            },
+            "end_location": {
+              "lat": 38.7381145,
+              "lng": -90.2784267
+            },
+            "html_instructions": "Turn <b>left</b> onto <b>W Florissant Ave</b>",
+            "maneuver": "turn-left",
+            "polyline": {
+              "points": "_qjkFpz~ePQWSNy@p@_BxAYVSPg@f@KLq@l@iA|@iBjAQJULk@Xu@^KDQDWDS@_@@]?w@Es@GkAIaBOqEUwACyABaADKLy@JiDh@UDi@Fy@HcAHMBk@DSBM@{@JS@q@Ha@D}@Hg@F]Bs@HE?_@DY@q@FS@"
+            },
+            "start_location": {
+              "lat": 38.7254368,
+              "lng": -90.2751253
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "0.2 mi",
+              "value": 386
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 40
+            },
+            "end_location": {
+              "lat": 38.7387527,
+              "lng": -90.2743551
+            },
+            "html_instructions": "Turn <b>right</b> onto <b>Canfield Dr</b>",
+            "maneuver": "turn-right",
+            "polyline": {
+              "points": "e`mkFdo_fP?MAKIoBI{AC]CSCOEOCIEIaAgBEKEMQm@EMESEUESE[CWAO?O?M@I@Q@KDMBKFO\\q@"
+            },
+            "start_location": {
+              "lat": 38.7381145,
+              "lng": -90.2784267
+            },
+            "travel_mode": "DRIVING"
+          },
+          {
+            "distance": {
+              "text": "79 ft",
+              "value": 24
+            },
+            "duration": {
+              "text": "1 min",
+              "value": 2
+            },
+            "end_location": {
+              "lat": 38.7386218,
+              "lng": -90.2741317
+            },
+            "html_instructions": "Continue onto <b>Canfield Ct</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+            "polyline": {
+              "points": "edmkFvu~ePFOP]"
+            },
+            "start_location": {
+              "lat": 38.7387527,
+              "lng": -90.2743551
+            },
+            "travel_mode": "DRIVING"
+          }
+        ],
+        "traffic_speed_entry": [],
+        "via_waypoint": []
+      }
+    ],
+    "overview_polyline": {
+      "points": "eixjFr|efPl@DCh@MfCfGd@PCLIFEBE\\GRAP@fC^bBNAZFfCFbDAdCO`FElAKxB]jDKbA{@zEY~ACT@zA?pHJbHBbAHVGjISvMOdL[vYCzQ?tFM~@KpF?`IKdBSlAMh@]z@Yj@w@hAm@h@SLsAl@eARgBJuACmAIwB]qE}@uC]m@GkAEaA?oADgBRqBh@_DvAePxHiGbDwEzBeOfHkEvBoEvBoBvAwArAkAnAmDrDiAdA_BpAsBpAc@T{@`@eC~@cDv@gInBuAd@e@NmClA{HtDqL~Fu\\dP}@`@oC~@yBj@eAViEn@qOpByBV}BNwB?eACwCWcCe@_AWgBm@{D{AoCiAg@W_B}@g@]}BsBkBoBoBgCsBgDuCcFaAuAoAqAaAy@mAs@_Ac@}@]qA]{AUm@IkB?qCIgCUqB[_Ba@}Ac@mAi@wBeAyBkA{AcAyAkAwAwAmGkHyOaRyAaBq@m@}@q@}AaAkAg@mBi@{B]iEQqBOeB]iBk@}Aw@qA{@w@s@[[sA_B_AwAwAiCqJuQyCsFwBsD_B}BsAaBiBoBqAeAwB_BiCaBaBs@qAe@cCs@wAWgAMsDUyG[gb@uByF[}E]mKi@wBKQKQE_@CcAQ_@Mg@U}@i@q@g@]a@a@w@Oa@Q}@IcAAu@JsA`@gB`@sA@UfC{D`FqGxF}H|DkFxB}C~@mBVo@v@yB^yAZcBVoBTiDNaQLiMA{CIaHWqNEuD@qAHsCXsDb@kDT}Af@uB|@}CpAeDz@cBxEyHfC{Dn@kA|@qBl@iBh@yBf@yCl@_Fj@_E^eBXaAvAiDh@cA`A{AfHcKpAiBZe@h@eAHOTKFIl@y@l@m@h@g@\\[`AaAZ]HYVgAHWs@c@y@k@y@i@eBiA}E{C_Am@eBaAgAq@WGeAe@g@YY_@wAaAyDmCiCaBa@WSAwA}@cCaBuHeFuDcCiEuCeJcGe@YIWACsCgBoByA}@{@QWSNyCjCm@h@s@t@{BjB}D~BaAd@i@Js@BuAE_CQsHe@wACyABaADKLcFt@_ALwD\\kHt@wBRkAHS@?MK{BMyBQ}@gAqBKYc@eBQwABy@FYJ[v@_B"
+    },
+    "summary": "I-170 N",
+    "warnings": [],
+    "waypoint_order": []
+  }
+]

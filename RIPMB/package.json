@@ -1,0 +1,17 @@
+{
+  "name": "ferguson",
+  "version": "1.0.0",
+  "description": "Travel time viz for Living in Data",
+  "main": "index.js",
+  "author": "Jer Thorp",
+  "license": "MIT",
+  "dependencies": {
+    "@google/maps": "^0.5.5",
+    "aisparser": "^0.0.13",
+    "app-root-path": "^2.2.1",
+    "assert": "^2.0.0",
+    "csv": "^5.1.1",
+    "fs": "^0.0.1-security",
+    "google-polyline": "^1.0.3"
+  }
+}

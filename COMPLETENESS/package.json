@@ -1,0 +1,19 @@
+{
+  "name": "p5-js",
+  "version": "0.0.1",
+  "description": "p5.js Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": "6.9.1"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ]
+}

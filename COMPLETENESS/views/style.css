@@ -1,0 +1,14 @@
+body {
+  width:3675px;
+  background-color:white; 
+  margin-left:25px;
+  padding-right:25px;
+  margin-top:25px;
+  padding-bottom:25px;
+}
+
+.sub {
+  display: inline;
+  font-family: 'Merriweather', serif;
+  font-size:25px;
+}
