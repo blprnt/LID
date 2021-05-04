@@ -19,18 +19,18 @@ All of the URLs in the book are incorrect. I'll just take a minute in shame for 
 
 But, they're easy to find. A URL in the book that is github.com/blprnt/LID/CHAPTER is actually github.com/blprnt/LID/tree/main/CHAPTER. Here they all are:
 
- - These Harrowing Seconds, pp. 10: https://github.com/blprnt/lid/tree/main/hippos
- - Let Them Fill The Space, Let Them Hang In The AIR, pp. 34-35: https://github.com/blprnt/lid/tree/main/universe
- - I'm Not Sure Which Name I Picked But I Read About Their Life, pp. 54: https://github.com/blprnt/lid/tree/main/memorial
+ - These Harrowing Seconds, pp. 10: https://github.com/blprnt/lid/tree/main/HIPPOS
+ - Let Them Fill The Space, Let Them Hang In The AIR, pp. 34-35: https://github.com/blprnt/lid/tree/main/UNIVERSE
+ - I'm Not Sure Which Name I Picked But I Read About Their Life, pp. 54: https://github.com/blprnt/lid/tree/main/MEMORIAL
  - It Wasn't Unusual For There To Be Applause, pp. 96: https://github.com/blprnt/lid/tree/main/1994
- - How Things Are Found, How Histories Are Written, pp. 118-119: https://github.com/blprnt/lid/tree/main/completeness
- - The Empty Spaces of Omission, pp. 134-135: https://github.com/blprnt/lid/tree/main/infiniteweft
- - Descent / Ascent, pp. 148, 153: https://github.com/blprnt/lid/tree/main/alvin
- - The Ice Burbles and Cracks, pp. 184: https://github.com/blprnt/lid/glacier
- - Some 275 Minutes After He Fell, Michael Brown's Body Was Lifted Off The Streets, pp. 206: https://github.com/blprnt/lid/ripmb
- - It Was a Warm Day And A Little Bit of Wind Came From The South-East, pp. 217: https://github.com/blprnt/lid/ripmb
- - By The Laws Of The Nation, pp. 218: https://github.com/blprnt/lid/sovereignty
- - Little Trickled Back, pp. 236: https://github.com/blprnt/lid/trickleback
- - But I Do Believe It's Coming Back to Life, pp. 254-255: https://github.com/blprnt/lid/hopecrisis
+ - How Things Are Found, How Histories Are Written, pp. 118-119: https://github.com/blprnt/lid/tree/main/COMPLETENESS
+ - The Empty Spaces of Omission, pp. 134-135: https://github.com/blprnt/lid/tree/main/INFINITEWEFT
+ - Descent / Ascent, pp. 148, 153: https://github.com/blprnt/lid/tree/main/ALVIN
+ - The Ice Burbles and Cracks, pp. 184: https://github.com/blprnt/lid/GLACIER
+ - Some 275 Minutes After He Fell, Michael Brown's Body Was Lifted Off The Streets, pp. 206: https://github.com/blprnt/lid/RIPMB
+ - It Was a Warm Day And A Little Bit of Wind Came From The South-East, pp. 217: https://github.com/blprnt/lid/RIPMB
+ - By The Laws Of The Nation, pp. 218: https://github.com/blprnt/lid/SOVEREIGNTY
+ - Little Trickled Back, pp. 236: https://github.com/blprnt/lid/TRICKLEBACK
+ - But I Do Believe It's Coming Back to Life, pp. 254-255: https://github.com/blprnt/lid/HOPECRISIS
 
 
